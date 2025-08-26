@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 196
+Name: Ley_que_Crea_la_Universidad_del_Ejercito_y_Fuerza_Aerea
+Folder: 288_Ley que Crea la Universidad del Ejercito y Fuerza Aerea
+Downloaded: Mon Aug 25 21:30:10 PDT 2025
+
+Files Downloaded: 3/3
+- 196_static.pdf (Static PDF version)
+- 196_document.doc (Word document)
+- Ley_que_Crea_la_Universidad_del_Ejercito_y_Fuerza_Aerea_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

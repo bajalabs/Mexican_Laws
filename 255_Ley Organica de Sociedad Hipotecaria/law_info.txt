@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOSHF
+Name: Ley_Organica_de_Sociedad_Hipotecaria
+Folder: 255_Ley Organica de Sociedad Hipotecaria
+Downloaded: Mon Aug 25 21:29:22 PDT 2025
+
+Files Downloaded: 3/3
+- LOSHF_static.pdf (Static PDF version)
+- LOSHF_document.doc (Word document)
+- Ley_Organica_de_Sociedad_Hipotecaria_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

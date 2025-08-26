@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 157
+Name: Ley_Organica_de_la_Universidad_Autonoma_Metropolitana
+Folder: 251_Ley Organica de la Universidad Autonoma Metropolitana
+Downloaded: Mon Aug 25 21:29:16 PDT 2025
+
+Files Downloaded: 3/3
+- 157_static.pdf (Static PDF version)
+- 157_document.doc (Word document)
+- Ley_Organica_de_la_Universidad_Autonoma_Metropolitana_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

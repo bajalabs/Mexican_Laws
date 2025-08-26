@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFAAR
+Name: Ley_de_Fondos_de_Aseguramiento_Agropecuario_y_Rural
+Folder: 055_Ley de Fondos de Aseguramiento Agropecuario y Rural
+Downloaded: Mon Aug 25 21:24:27 PDT 2025
+
+Files Downloaded: 3/3
+- LFAAR_static.pdf (Static PDF version)
+- LFAAR_document.doc (Word document)
+- Ley_de_Fondos_de_Aseguramiento_Agropecuario_y_Rural_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

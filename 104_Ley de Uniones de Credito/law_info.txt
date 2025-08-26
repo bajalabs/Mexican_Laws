@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LUC
+Name: Ley_de_Uniones_de_Credito
+Folder: 104_Ley de Uniones de Credito
+Downloaded: Mon Aug 25 21:25:38 PDT 2025
+
+Files Downloaded: 3/3
+- LUC_static.pdf (Static PDF version)
+- LUC_document.doc (Word document)
+- Ley_de_Uniones_de_Credito_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

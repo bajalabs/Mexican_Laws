@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIEPS
+Name: Ley_del_Impuesto_Especial_sobre_Produccion_y_Servicios
+Folder: 112_Ley del Impuesto Especial sobre Produccion y Servicios
+Downloaded: Mon Aug 25 21:25:49 PDT 2025
+
+Files Downloaded: 3/3
+- LIEPS_static.pdf (Static PDF version)
+- LIEPS_document.doc (Word document)
+- Ley_del_Impuesto_Especial_sobre_Produccion_y_Servicios_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

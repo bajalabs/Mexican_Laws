@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: CNPP
+Name: Codigo_Nacional_de_Procedimientos_Penales
+Folder: 009_Codigo Nacional de Procedimientos Penales
+Downloaded: Mon Aug 25 21:23:20 PDT 2025
+
+Files Downloaded: 3/3
+- CNPP_static.pdf (Static PDF version)
+- CNPP_document.doc (Word document)
+- Codigo_Nacional_de_Procedimientos_Penales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

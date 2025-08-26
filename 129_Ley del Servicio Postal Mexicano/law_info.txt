@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LSPM
+Name: Ley_del_Servicio_Postal_Mexicano
+Folder: 129_Ley del Servicio Postal Mexicano
+Downloaded: Mon Aug 25 21:26:14 PDT 2025
+
+Files Downloaded: 3/3
+- LSPM_static.pdf (Static PDF version)
+- LSPM_document.doc (Word document)
+- Ley_del_Servicio_Postal_Mexicano_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

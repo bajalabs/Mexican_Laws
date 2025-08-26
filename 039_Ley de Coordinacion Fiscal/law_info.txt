@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCF
+Name: Ley_de_Coordinacion_Fiscal
+Folder: 039_Ley de Coordinacion Fiscal
+Downloaded: Mon Aug 25 21:24:06 PDT 2025
+
+Files Downloaded: 3/3
+- LCF_static.pdf (Static PDF version)
+- LCF_document.doc (Word document)
+- Ley_de_Coordinacion_Fiscal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

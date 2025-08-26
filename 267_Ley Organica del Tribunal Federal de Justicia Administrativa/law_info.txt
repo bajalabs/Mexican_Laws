@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOTFJA
+Name: Ley_Organica_del_Tribunal_Federal_de_Justicia_Administrativa
+Folder: 267_Ley Organica del Tribunal Federal de Justicia Administrativa
+Downloaded: Mon Aug 25 21:29:41 PDT 2025
+
+Files Downloaded: 3/3
+- LOTFJA_static.pdf (Static PDF version)
+- LOTFJA_document.doc (Word document)
+- Ley_Organica_del_Tribunal_Federal_de_Justicia_Administrativa_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

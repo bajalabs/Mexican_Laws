@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFLL
+Name: Ley_de_Fomento_para_la_Lectura_y_el_Libro
+Folder: 054_Ley de Fomento para la Lectura y el Libro
+Downloaded: Mon Aug 25 21:24:26 PDT 2025
+
+Files Downloaded: 3/3
+- LFLL_static.pdf (Static PDF version)
+- LFLL_document.doc (Word document)
+- Ley_de_Fomento_para_la_Lectura_y_el_Libro_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCACSEFAM
+Name: Ley_para_la_Comprobacion_Ajuste_y_Computo_de_Servicios_en_el_Ejercito_y_Fuerza_Aerea
+Folder: 275_Ley para la Comprobacion Ajuste y Computo de Servicios en el Ejercito y Fuerza A
+Downloaded: Mon Aug 25 21:29:52 PDT 2025
+
+Files Downloaded: 3/3
+- LCACSEFAM_static.pdf (Static PDF version)
+- LCACSEFAM_document.doc (Word document)
+- Ley_para_la_Comprobacion_Ajuste_y_Computo_de_Servicios_en_el_Ejercito_y_Fuerza_Aerea_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 162
+Name: Ley_Organica_de_Nacional_Financiera
+Folder: 254_Ley Organica de Nacional Financiera
+Downloaded: Mon Aug 25 21:29:20 PDT 2025
+
+Files Downloaded: 3/3
+- 162_static.pdf (Static PDF version)
+- 162_document.doc (Word document)
+- Ley_Organica_de_Nacional_Financiera_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

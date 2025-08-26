@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIMJ
+Name: Ley_del_Instituto_Mexicano_de_la_Juventud
+Folder: 118_Ley del Instituto Mexicano de la Juventud
+Downloaded: Mon Aug 25 21:25:58 PDT 2025
+
+Files Downloaded: 3/3
+- LIMJ_static.pdf (Static PDF version)
+- LIMJ_document.doc (Word document)
+- Ley_del_Instituto_Mexicano_de_la_Juventud_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LSE
+Name: Ley_del_Sector_Electrico
+Folder: 123_Ley del Sector Electrico
+Downloaded: Mon Aug 25 21:26:05 PDT 2025
+
+Files Downloaded: 3/3
+- LSE_static.pdf (Static PDF version)
+- LSE_document.doc (Word document)
+- Ley_del_Sector_Electrico_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

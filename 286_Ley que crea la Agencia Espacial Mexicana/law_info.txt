@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAEM
+Name: Ley_que_crea_la_Agencia_Espacial_Mexicana
+Folder: 286_Ley que crea la Agencia Espacial Mexicana
+Downloaded: Mon Aug 25 21:30:07 PDT 2025
+
+Files Downloaded: 3/3
+- LAEM_static.pdf (Static PDF version)
+- LAEM_document.doc (Word document)
+- Ley_que_crea_la_Agencia_Espacial_Mexicana_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

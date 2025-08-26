@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LNSIJPA
+Name: Ley_Nacional_del_Sistema_Integral_de_Justicia_Penal_para_Adolescentes
+Folder: 243_Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes
+Downloaded: Mon Aug 25 21:29:05 PDT 2025
+
+Files Downloaded: 3/3
+- LNSIJPA_static.pdf (Static PDF version)
+- LNSIJPA_document.doc (Word document)
+- Ley_Nacional_del_Sistema_Integral_de_Justicia_Penal_para_Adolescentes_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

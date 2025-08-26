@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGVS
+Name: Ley_General_de_Vida_Silvestre
+Folder: 219_Ley General de Vida Silvestre
+Downloaded: Mon Aug 25 21:28:29 PDT 2025
+
+Files Downloaded: 3/3
+- LGVS_static.pdf (Static PDF version)
+- LGVS_document.doc (Word document)
+- Ley_General_de_Vida_Silvestre_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

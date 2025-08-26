@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 167
+Name: Ley_Organica_del_Banco_Nacional_del_Ejercito_Fuerza_Aerea_y_Armada
+Folder: 259_Ley Organica del Banco Nacional del Ejercito Fuerza Aerea y Armada
+Downloaded: Mon Aug 25 21:29:27 PDT 2025
+
+Files Downloaded: 3/3
+- 167_static.pdf (Static PDF version)
+- 167_document.doc (Word document)
+- Ley_Organica_del_Banco_Nacional_del_Ejercito_Fuerza_Aerea_y_Armada_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

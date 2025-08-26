@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 216_200521
+Name: Ley_sobre_la_Celebracion_de_Tratados
+Folder: 307_Ley sobre la Celebracion de Tratados
+Downloaded: Mon Aug 25 21:30:36 PDT 2025
+
+Files Downloaded: 3/3
+- 216_200521_static.pdf (Static PDF version)
+- 216_200521_document.doc (Word document)
+- Ley_sobre_la_Celebracion_de_Tratados_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

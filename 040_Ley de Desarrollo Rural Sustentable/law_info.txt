@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LDRS
+Name: Ley_de_Desarrollo_Rural_Sustentable
+Folder: 040_Ley de Desarrollo Rural Sustentable
+Downloaded: Mon Aug 25 21:24:07 PDT 2025
+
+Files Downloaded: 3/3
+- LDRS_static.pdf (Static PDF version)
+- LDRS_document.doc (Word document)
+- Ley_de_Desarrollo_Rural_Sustentable_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

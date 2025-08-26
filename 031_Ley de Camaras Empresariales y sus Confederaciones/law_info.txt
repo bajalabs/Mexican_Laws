@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCEC_120419
+Name: Ley_de_Camaras_Empresariales_y_sus_Confederaciones
+Folder: 031_Ley de Camaras Empresariales y sus Confederaciones
+Downloaded: Mon Aug 25 21:23:54 PDT 2025
+
+Files Downloaded: 3/3
+- LCEC_120419_static.pdf (Static PDF version)
+- LCEC_120419_document.doc (Word document)
+- Ley_de_Camaras_Empresariales_y_sus_Confederaciones_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

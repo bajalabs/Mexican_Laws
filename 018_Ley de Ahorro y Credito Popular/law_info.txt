@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LACP
+Name: Ley_de_Ahorro_y_Credito_Popular
+Folder: 018_Ley de Ahorro y Credito Popular
+Downloaded: Mon Aug 25 21:23:36 PDT 2025
+
+Files Downloaded: 3/3
+- LACP_static.pdf (Static PDF version)
+- LACP_document.doc (Word document)
+- Ley_de_Ahorro_y_Credito_Popular_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

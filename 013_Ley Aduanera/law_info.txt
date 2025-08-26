@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAdua
+Name: Ley_Aduanera
+Folder: 013_Ley Aduanera
+Downloaded: Mon Aug 25 21:23:27 PDT 2025
+
+Files Downloaded: 3/3
+- LAdua_static.pdf (Static PDF version)
+- LAdua_document.doc (Word document)
+- Ley_Aduanera_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

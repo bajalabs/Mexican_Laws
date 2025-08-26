@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 79
+Name: Impuesto_Sobre_Servicios-Declarados_de_Interes_Publico-Empresas_Concesionarias
+Folder: 012_Impuesto Sobre Servicios-Declarados de Interes Publico-Empresas Concesionarias
+Downloaded: Mon Aug 25 21:23:25 PDT 2025
+
+Files Downloaded: 3/3
+- 79_static.pdf (Static PDF version)
+- 79_document.doc (Word document)
+- Impuesto_Sobre_Servicios-Declarados_de_Interes_Publico-Empresas_Concesionarias_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

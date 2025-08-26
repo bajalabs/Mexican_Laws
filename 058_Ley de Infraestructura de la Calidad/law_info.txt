@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LICal_010720
+Name: Ley_de_Infraestructura_de_la_Calidad
+Folder: 058_Ley de Infraestructura de la Calidad
+Downloaded: Mon Aug 25 21:24:32 PDT 2025
+
+Files Downloaded: 3/3
+- LICal_010720_static.pdf (Static PDF version)
+- LICal_010720_document.doc (Word document)
+- Ley_de_Infraestructura_de_la_Calidad_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

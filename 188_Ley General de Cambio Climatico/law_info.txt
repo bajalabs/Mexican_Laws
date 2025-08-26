@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGCC
+Name: Ley_General_de_Cambio_Climatico
+Folder: 188_Ley General de Cambio Climatico
+Downloaded: Mon Aug 25 21:27:40 PDT 2025
+
+Files Downloaded: 3/3
+- LGCC_static.pdf (Static PDF version)
+- LGCC_document.doc (Word document)
+- Ley_General_de_Cambio_Climatico_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

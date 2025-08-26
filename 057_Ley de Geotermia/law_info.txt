@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGeo
+Name: Ley_de_Geotermia
+Folder: 057_Ley de Geotermia
+Downloaded: Mon Aug 25 21:24:30 PDT 2025
+
+Files Downloaded: 3/3
+- LGeo_static.pdf (Static PDF version)
+- LGeo_document.doc (Word document)
+- Ley_de_Geotermia_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

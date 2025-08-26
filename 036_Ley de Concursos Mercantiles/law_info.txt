@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCM
+Name: Ley_de_Concursos_Mercantiles
+Folder: 036_Ley de Concursos Mercantiles
+Downloaded: Mon Aug 25 21:24:01 PDT 2025
+
+Files Downloaded: 3/3
+- LCM_static.pdf (Static PDF version)
+- LCM_document.doc (Word document)
+- Ley_de_Concursos_Mercantiles_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

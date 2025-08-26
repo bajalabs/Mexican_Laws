@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 177
+Name: Ley_para_el_Dialogo_la_Conciliacion_y_la_Paz_Digna_en_Chiapas
+Folder: 271_Ley para el Dialogo la Conciliacion y la Paz Digna en Chiapas
+Downloaded: Mon Aug 25 21:29:46 PDT 2025
+
+Files Downloaded: 3/3
+- 177_static.pdf (Static PDF version)
+- 177_document.doc (Word document)
+- Ley_para_el_Dialogo_la_Conciliacion_y_la_Paz_Digna_en_Chiapas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

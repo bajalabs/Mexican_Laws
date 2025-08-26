@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LDPAM
+Name: Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores
+Folder: 075_Ley de los Derechos de las Personas Adultas Mayores
+Downloaded: Mon Aug 25 21:24:57 PDT 2025
+
+Files Downloaded: 3/3
+- LDPAM_static.pdf (Static PDF version)
+- LDPAM_document.doc (Word document)
+- Ley_de_los_Derechos_de_las_Personas_Adultas_Mayores_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

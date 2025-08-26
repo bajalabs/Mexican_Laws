@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: CCF
+Name: Codigo_Civil_Federal
+Folder: 002_Codigo Civil Federal
+Downloaded: Mon Aug 25 21:23:07 PDT 2025
+
+Files Downloaded: 3/3
+- CCF_static.pdf (Static PDF version)
+- CCF_document.doc (Word document)
+- Codigo_Civil_Federal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

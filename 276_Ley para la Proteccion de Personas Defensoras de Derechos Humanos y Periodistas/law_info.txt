@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LPPDDHP
+Name: Ley_para_la_Proteccion_de_Personas_Defensoras_de_Derechos_Humanos_y_Periodistas
+Folder: 276_Ley para la Proteccion de Personas Defensoras de Derechos Humanos y Periodistas
+Downloaded: Mon Aug 25 21:29:53 PDT 2025
+
+Files Downloaded: 3/3
+- LPPDDHP_static.pdf (Static PDF version)
+- LPPDDHP_document.doc (Word document)
+- Ley_para_la_Proteccion_de_Personas_Defensoras_de_Derechos_Humanos_y_Periodistas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LTF
+Name: Ley_de_Tesoreria_de_la_Federacion
+Folder: 102_Ley de Tesoreria de la Federacion
+Downloaded: Mon Aug 25 21:25:35 PDT 2025
+
+Files Downloaded: 3/3
+- LTF_static.pdf (Static PDF version)
+- LTF_document.doc (Word document)
+- Ley_de_Tesoreria_de_la_Federacion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

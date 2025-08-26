@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFRemSP_190521
+Name: Ley_Federal_de_Remuneraciones_de_los_Servidores_Publicos
+Folder: 159_Ley Federal de Remuneraciones de los Servidores Publicos
+Downloaded: Mon Aug 25 21:26:58 PDT 2025
+
+Files Downloaded: 3/3
+- LFRemSP_190521_static.pdf (Static PDF version)
+- LFRemSP_190521_document.doc (Word document)
+- Ley_Federal_de_Remuneraciones_de_los_Servidores_Publicos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

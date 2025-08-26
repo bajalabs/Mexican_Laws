@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 109
+Name: Ley_Federal_de_Juegos_y_Sorteos
+Folder: 147_Ley Federal de Juegos y Sorteos
+Downloaded: Mon Aug 25 21:26:40 PDT 2025
+
+Files Downloaded: 3/3
+- 109_static.pdf (Static PDF version)
+- 109_document.doc (Word document)
+- Ley_Federal_de_Juegos_y_Sorteos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

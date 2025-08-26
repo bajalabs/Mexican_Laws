@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFCPQ
+Name: Ley_Federal_para_el_Control-Precursores_Quimicos_Productos-Maquinas-Capsulas_Tabletas-Comprimidos
+Folder: 173_Ley Federal para el Control-Precursores Quimicos Productos-Maquinas-Capsulas Tab
+Downloaded: Mon Aug 25 21:27:18 PDT 2025
+
+Files Downloaded: 3/3
+- LFCPQ_static.pdf (Static PDF version)
+- LFCPQ_document.doc (Word document)
+- Ley_Federal_para_el_Control-Precursores_Quimicos_Productos-Maquinas-Capsulas_Tabletas-Comprimidos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

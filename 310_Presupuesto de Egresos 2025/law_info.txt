@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: PEF_2025
+Name: Presupuesto_de_Egresos_2025
+Folder: 310_Presupuesto de Egresos 2025
+Downloaded: Mon Aug 25 21:30:43 PDT 2025
+
+Files Downloaded: 3/3
+- PEF_2025_static.pdf (Static PDF version)
+- PEF_2025_document.doc (Word document)
+- Presupuesto_de_Egresos_2025_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

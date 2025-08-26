@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOEFAM
+Name: Ley_Organica_del_Ejercito_y_Fuerza_Aerea
+Folder: 262_Ley Organica del Ejercito y Fuerza Aerea
+Downloaded: Mon Aug 25 21:29:32 PDT 2025
+
+Files Downloaded: 3/3
+- LOEFAM_static.pdf (Static PDF version)
+- LOEFAM_document.doc (Word document)
+- Ley_Organica_del_Ejercito_y_Fuerza_Aerea_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

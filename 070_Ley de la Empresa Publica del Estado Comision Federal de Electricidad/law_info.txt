@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LEPECFE
+Name: Ley_de_la_Empresa_Publica_del_Estado_Comision_Federal_de_Electricidad
+Folder: 070_Ley de la Empresa Publica del Estado Comision Federal de Electricidad
+Downloaded: Mon Aug 25 21:24:49 PDT 2025
+
+Files Downloaded: 3/3
+- LEPECFE_static.pdf (Static PDF version)
+- LEPECFE_document.doc (Word document)
+- Ley_de_la_Empresa_Publica_del_Estado_Comision_Federal_de_Electricidad_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

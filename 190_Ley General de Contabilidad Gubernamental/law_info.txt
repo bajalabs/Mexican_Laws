@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGCG
+Name: Ley_General_de_Contabilidad_Gubernamental
+Folder: 190_Ley General de Contabilidad Gubernamental
+Downloaded: Mon Aug 25 21:27:43 PDT 2025
+
+Files Downloaded: 3/3
+- LGCG_static.pdf (Static PDF version)
+- LGCG_document.doc (Word document)
+- Ley_General_de_Contabilidad_Gubernamental_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

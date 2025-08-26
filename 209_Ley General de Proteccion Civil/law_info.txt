@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGPC
+Name: Ley_General_de_Proteccion_Civil
+Folder: 209_Ley General de Proteccion Civil
+Downloaded: Mon Aug 25 21:28:13 PDT 2025
+
+Files Downloaded: 3/3
+- LGPC_static.pdf (Static PDF version)
+- LGPC_document.doc (Word document)
+- Ley_General_de_Proteccion_Civil_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

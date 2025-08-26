@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIF_2025
+Name: Ley_de_Ingresos_2025
+Folder: 059_Ley de Ingresos 2025
+Downloaded: Mon Aug 25 21:24:33 PDT 2025
+
+Files Downloaded: 3/3
+- LIF_2025_static.pdf (Static PDF version)
+- LIF_2025_document.doc (Word document)
+- Ley_de_Ingresos_2025_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LDEFAM
+Name: Ley_de_Disciplina_del_Ejercito_y_Fuerza_Aerea
+Folder: 042_Ley de Disciplina del Ejercito y Fuerza Aerea
+Downloaded: Mon Aug 25 21:24:10 PDT 2025
+
+Files Downloaded: 3/3
+- LDEFAM_static.pdf (Static PDF version)
+- LDEFAM_document.doc (Word document)
+- Ley_de_Disciplina_del_Ejercito_y_Fuerza_Aerea_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

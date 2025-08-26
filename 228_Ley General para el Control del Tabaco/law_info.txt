@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGCT
+Name: Ley_General_para_el_Control_del_Tabaco
+Folder: 228_Ley General para el Control del Tabaco
+Downloaded: Mon Aug 25 21:28:43 PDT 2025
+
+Files Downloaded: 3/3
+- LGCT_static.pdf (Static PDF version)
+- LGCT_document.doc (Word document)
+- Ley_General_para_el_Control_del_Tabaco_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

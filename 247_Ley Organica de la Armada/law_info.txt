@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOAM
+Name: Ley_Organica_de_la_Armada
+Folder: 247_Ley Organica de la Armada
+Downloaded: Mon Aug 25 21:29:11 PDT 2025
+
+Files Downloaded: 3/3
+- LOAM_static.pdf (Static PDF version)
+- LOAM_document.doc (Word document)
+- Ley_Organica_de_la_Armada_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

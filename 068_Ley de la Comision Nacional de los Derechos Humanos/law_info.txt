@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCNDH
+Name: Ley_de_la_Comision_Nacional_de_los_Derechos_Humanos
+Folder: 068_Ley de la Comision Nacional de los Derechos Humanos
+Downloaded: Mon Aug 25 21:24:47 PDT 2025
+
+Files Downloaded: 3/3
+- LCNDH_static.pdf (Static PDF version)
+- LCNDH_document.doc (Word document)
+- Ley_de_la_Comision_Nacional_de_los_Derechos_Humanos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

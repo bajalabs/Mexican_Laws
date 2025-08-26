@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAREFAGN
+Name: Ley_de_Ascensos_y_Recompensas_del_Ejercito_Fuerza_Aerea_y_Guardia_Nacional
+Folder: 023_Ley de Ascensos y Recompensas del Ejercito Fuerza Aerea y Guardia Nacional
+Downloaded: Mon Aug 25 21:23:43 PDT 2025
+
+Files Downloaded: 3/3
+- LAREFAGN_static.pdf (Static PDF version)
+- LAREFAGN_document.doc (Word document)
+- Ley_de_Ascensos_y_Recompensas_del_Ejercito_Fuerza_Aerea_y_Guardia_Nacional_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

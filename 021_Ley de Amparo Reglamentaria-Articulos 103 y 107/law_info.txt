@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAmp
+Name: Ley_de_Amparo_Reglamentaria-Articulos_103_y_107
+Folder: 021_Ley de Amparo Reglamentaria-Articulos 103 y 107
+Downloaded: Mon Aug 25 21:23:40 PDT 2025
+
+Files Downloaded: 3/3
+- LAmp_static.pdf (Static PDF version)
+- LAmp_document.doc (Word document)
+- Ley_de_Amparo_Reglamentaria-Articulos_103_y_107_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

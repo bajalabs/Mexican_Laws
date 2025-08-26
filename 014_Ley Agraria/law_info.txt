@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAgra
+Name: Ley_Agraria
+Folder: 014_Ley Agraria
+Downloaded: Mon Aug 25 21:23:29 PDT 2025
+
+Files Downloaded: 3/3
+- LAgra_static.pdf (Static PDF version)
+- LAgra_document.doc (Word document)
+- Ley_Agraria_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

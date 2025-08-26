@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 197
+Name: Ley_que_Declara_Reservas_Mineras-Yacimientos-Uranio_Torio-Substancias-Isotopos-Energia_Nuclear
+Folder: 289_Ley que Declara Reservas Mineras-Yacimientos-Uranio Torio-Substancias-Isotopos-E
+Downloaded: Mon Aug 25 21:30:11 PDT 2025
+
+Files Downloaded: 3/3
+- 197_static.pdf (Static PDF version)
+- 197_document.doc (Word document)
+- Ley_que_Declara_Reservas_Mineras-Yacimientos-Uranio_Torio-Substancias-Isotopos-Energia_Nuclear_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

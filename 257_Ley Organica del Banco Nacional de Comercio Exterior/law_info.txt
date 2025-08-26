@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOBNCE
+Name: Ley_Organica_del_Banco_Nacional_de_Comercio_Exterior
+Folder: 257_Ley Organica del Banco Nacional de Comercio Exterior
+Downloaded: Mon Aug 25 21:29:24 PDT 2025
+
+Files Downloaded: 3/3
+- LOBNCE_static.pdf (Static PDF version)
+- LOBNCE_document.doc (Word document)
+- Ley_Organica_del_Banco_Nacional_de_Comercio_Exterior_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

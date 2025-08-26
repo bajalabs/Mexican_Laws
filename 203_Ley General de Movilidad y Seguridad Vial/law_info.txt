@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGMSV
+Name: Ley_General_de_Movilidad_y_Seguridad_Vial
+Folder: 203_Ley General de Movilidad y Seguridad Vial
+Downloaded: Mon Aug 25 21:28:04 PDT 2025
+
+Files Downloaded: 3/3
+- LGMSV_static.pdf (Static PDF version)
+- LGMSV_document.doc (Word document)
+- Ley_General_de_Movilidad_y_Seguridad_Vial_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 75_100619
+Name: Ley_del_Diario_Oficial_de_la_Federacion_y_Gacetas
+Folder: 109_Ley del Diario Oficial de la Federacion y Gacetas
+Downloaded: Mon Aug 25 21:25:45 PDT 2025
+
+Files Downloaded: 3/3
+- 75_100619_static.pdf (Static PDF version)
+- 75_100619_document.doc (Word document)
+- Ley_del_Diario_Oficial_de_la_Federacion_y_Gacetas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

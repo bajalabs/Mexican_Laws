@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFTR
+Name: Ley_Federal_de_Telecomunicaciones_y_Radiodifusion
+Folder: 327_Ley Federal de Telecomunicaciones y Radiodifusion
+Downloaded: Mon Aug 25 21:31:10 PDT 2025
+
+Files Downloaded: 3/3
+- LFTR_static.pdf (Static PDF version)
+- LFTR_document.doc (Word document)
+- Ley_Federal_de_Telecomunicaciones_y_Radiodifusion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

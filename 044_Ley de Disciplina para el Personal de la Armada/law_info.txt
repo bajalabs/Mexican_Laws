@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 252
+Name: Ley_de_Disciplina_para_el_Personal_de_la_Armada
+Folder: 044_Ley de Disciplina para el Personal de la Armada
+Downloaded: Mon Aug 25 21:24:13 PDT 2025
+
+Files Downloaded: 3/3
+- 252_static.pdf (Static PDF version)
+- 252_document.doc (Word document)
+- Ley_de_Disciplina_para_el_Personal_de_la_Armada_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 215
+Name: Ley_sobre_Elaboracion_y_Venta_de_Cafe_Tostado
+Folder: 305_Ley sobre Elaboracion y Venta de Cafe Tostado
+Downloaded: Mon Aug 25 21:30:34 PDT 2025
+
+Files Downloaded: 3/3
+- 215_static.pdf (Static PDF version)
+- 215_document.doc (Word document)
+- Ley_sobre_Elaboracion_y_Venta_de_Cafe_Tostado_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LSN
+Name: Ley_de_Seguridad_Nacional
+Folder: 098_Ley de Seguridad Nacional
+Downloaded: Mon Aug 25 21:25:30 PDT 2025
+
+Files Downloaded: 3/3
+- LSN_static.pdf (Static PDF version)
+- LSN_document.doc (Word document)
+- Ley_de_Seguridad_Nacional_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

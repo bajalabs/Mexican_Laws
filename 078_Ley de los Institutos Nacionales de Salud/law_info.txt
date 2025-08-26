@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LINS
+Name: Ley_de_los_Institutos_Nacionales_de_Salud
+Folder: 078_Ley de los Institutos Nacionales de Salud
+Downloaded: Mon Aug 25 21:25:04 PDT 2025
+
+Files Downloaded: 3/3
+- LINS_static.pdf (Static PDF version)
+- LINS_document.doc (Word document)
+- Ley_de_los_Institutos_Nacionales_de_Salud_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

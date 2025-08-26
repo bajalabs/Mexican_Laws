@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 260
+Name: Ley_del_Servicio_Profesional_de_Carrera_en_la_Administracion
+Folder: 130_Ley del Servicio Profesional de Carrera en la Administracion
+Downloaded: Mon Aug 25 21:26:15 PDT 2025
+
+Files Downloaded: 3/3
+- 260_static.pdf (Static PDF version)
+- 260_document.doc (Word document)
+- Ley_del_Servicio_Profesional_de_Carrera_en_la_Administracion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

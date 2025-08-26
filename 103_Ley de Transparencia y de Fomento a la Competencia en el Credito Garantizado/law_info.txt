@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 256
+Name: Ley_de_Transparencia_y_de_Fomento_a_la_Competencia_en_el_Credito_Garantizado
+Folder: 103_Ley de Transparencia y de Fomento a la Competencia en el Credito Garantizado
+Downloaded: Mon Aug 25 21:25:37 PDT 2025
+
+Files Downloaded: 3/3
+- 256_static.pdf (Static PDF version)
+- 256_document.doc (Word document)
+- Ley_de_Transparencia_y_de_Fomento_a_la_Competencia_en_el_Credito_Garantizado_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

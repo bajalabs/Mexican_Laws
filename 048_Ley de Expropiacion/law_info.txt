@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 35
+Name: Ley_de_Expropiacion
+Folder: 048_Ley de Expropiacion
+Downloaded: Mon Aug 25 21:24:18 PDT 2025
+
+Files Downloaded: 3/3
+- 35_static.pdf (Static PDF version)
+- 35_document.doc (Word document)
+- Ley_de_Expropiacion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFCC_200120
+Name: Ley_de_Fomento_a_la_Confianza_Ciudadana
+Folder: 052_Ley de Fomento a la Confianza Ciudadana
+Downloaded: Mon Aug 25 21:24:23 PDT 2025
+
+Files Downloaded: 3/3
+- LFCC_200120_static.pdf (Static PDF version)
+- LFCC_200120_document.doc (Word document)
+- Ley_de_Fomento_a_la_Confianza_Ciudadana_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

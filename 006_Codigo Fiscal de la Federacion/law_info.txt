@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: CFF
+Name: Codigo_Fiscal_de_la_Federacion
+Folder: 006_Codigo Fiscal de la Federacion
+Downloaded: Mon Aug 25 21:23:15 PDT 2025
+
+Files Downloaded: 3/3
+- CFF_static.pdf (Static PDF version)
+- CFF_document.doc (Word document)
+- Codigo_Fiscal_de_la_Federacion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

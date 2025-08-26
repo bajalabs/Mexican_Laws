@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFFAOSC
+Name: Ley_Federal_de_Fomento_a_las_Actividades-por_Organizaciones_de_la_Sociedad_Civil
+Folder: 146_Ley Federal de Fomento a las Actividades-por Organizaciones de la Sociedad Civil
+Downloaded: Mon Aug 25 21:26:39 PDT 2025
+
+Files Downloaded: 3/3
+- LFFAOSC_static.pdf (Static PDF version)
+- LFFAOSC_document.doc (Word document)
+- Ley_Federal_de_Fomento_a_las_Actividades-por_Organizaciones_de_la_Sociedad_Civil_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

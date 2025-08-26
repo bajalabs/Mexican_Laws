@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFDA
+Name: Ley_Federal_del_Derecho_de_Autor
+Folder: 169_Ley Federal del Derecho de Autor
+Downloaded: Mon Aug 25 21:27:12 PDT 2025
+
+Files Downloaded: 3/3
+- LFDA_static.pdf (Static PDF version)
+- LFDA_document.doc (Word document)
+- Ley_Federal_del_Derecho_de_Autor_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

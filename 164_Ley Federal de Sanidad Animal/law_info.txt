@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFSA
+Name: Ley_Federal_de_Sanidad_Animal
+Folder: 164_Ley Federal de Sanidad Animal
+Downloaded: Mon Aug 25 21:27:05 PDT 2025
+
+Files Downloaded: 3/3
+- LFSA_static.pdf (Static PDF version)
+- LFSA_document.doc (Word document)
+- Ley_Federal_de_Sanidad_Animal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

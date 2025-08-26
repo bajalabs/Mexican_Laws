@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LRArt6_MDR
+Name: Ley_Reglamentaria_del_Articulo_6o_parrafo_primero-Materia-Derecho_de_Replica
+Folder: 300_Ley Reglamentaria del Articulo 6o parrafo primero-Materia-Derecho de Replica
+Downloaded: Mon Aug 25 21:30:26 PDT 2025
+
+Files Downloaded: 3/3
+- LRArt6_MDR_static.pdf (Static PDF version)
+- LRArt6_MDR_document.doc (Word document)
+- Ley_Reglamentaria_del_Articulo_6o_parrafo_primero-Materia-Derecho_de_Replica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 152
+Name: Ley_Monetaria
+Folder: 238_Ley Monetaria
+Downloaded: Mon Aug 25 21:28:56 PDT 2025
+
+Files Downloaded: 3/3
+- 152_static.pdf (Static PDF version)
+- 152_document.doc (Word document)
+- Ley_Monetaria_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

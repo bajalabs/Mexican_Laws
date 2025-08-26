@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFAEBSP
+Name: Ley_Federal_para_la_Administracion_y_Enajenacion_de_Bienes_del_Sector
+Folder: 177_Ley Federal para la Administracion y Enajenacion de Bienes del Sector
+Downloaded: Mon Aug 25 21:27:24 PDT 2025
+
+Files Downloaded: 3/3
+- LFAEBSP_static.pdf (Static PDF version)
+- LFAEBSP_document.doc (Word document)
+- Ley_Federal_para_la_Administracion_y_Enajenacion_de_Bienes_del_Sector_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

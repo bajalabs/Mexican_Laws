@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LRPCAP
+Name: Ley_sobre_Refugiados_Proteccion_Complementaria_y_Asilo_Politico
+Folder: 308_Ley sobre Refugiados Proteccion Complementaria y Asilo Politico
+Downloaded: Mon Aug 25 21:30:38 PDT 2025
+
+Files Downloaded: 3/3
+- LRPCAP_static.pdf (Static PDF version)
+- LRPCAP_document.doc (Word document)
+- Ley_sobre_Refugiados_Proteccion_Complementaria_y_Asilo_Politico_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

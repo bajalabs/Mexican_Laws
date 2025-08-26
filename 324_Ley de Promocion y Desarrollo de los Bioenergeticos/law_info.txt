@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LPDB
+Name: Ley_de_Promocion_y_Desarrollo_de_los_Bioenergeticos
+Folder: 324_Ley de Promocion y Desarrollo de los Bioenergeticos
+Downloaded: Mon Aug 25 21:31:05 PDT 2025
+
+Files Downloaded: 3/3
+- LPDB_static.pdf (Static PDF version)
+- LPDB_document.doc (Word document)
+- Ley_de_Promocion_y_Desarrollo_de_los_Bioenergeticos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

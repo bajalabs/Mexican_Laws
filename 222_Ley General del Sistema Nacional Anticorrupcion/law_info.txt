@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGSNA_200521
+Name: Ley_General_del_Sistema_Nacional_Anticorrupcion
+Folder: 222_Ley General del Sistema Nacional Anticorrupcion
+Downloaded: Mon Aug 25 21:28:33 PDT 2025
+
+Files Downloaded: 3/3
+- LGSNA_200521_static.pdf (Static PDF version)
+- LGSNA_200521_document.doc (Word document)
+- Ley_General_del_Sistema_Nacional_Anticorrupcion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

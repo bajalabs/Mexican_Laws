@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: CCom
+Name: Codigo_de_Comercio
+Folder: 003_Codigo de Comercio
+Downloaded: Mon Aug 25 21:23:09 PDT 2025
+
+Files Downloaded: 3/3
+- CCom_static.pdf (Static PDF version)
+- CCom_document.doc (Word document)
+- Codigo_de_Comercio_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

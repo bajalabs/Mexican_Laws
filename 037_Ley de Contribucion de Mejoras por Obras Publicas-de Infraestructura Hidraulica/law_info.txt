@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 30
+Name: Ley_de_Contribucion_de_Mejoras_por_Obras_Publicas-de_Infraestructura_Hidraulica
+Folder: 037_Ley de Contribucion de Mejoras por Obras Publicas-de Infraestructura Hidraulica
+Downloaded: Mon Aug 25 21:24:03 PDT 2025
+
+Files Downloaded: 3/3
+- 30_static.pdf (Static PDF version)
+- 30_document.doc (Word document)
+- Ley_de_Contribucion_de_Mejoras_por_Obras_Publicas-de_Infraestructura_Hidraulica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

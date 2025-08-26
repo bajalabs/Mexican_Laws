@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAC
+Name: Ley_de_Aviacion_Civil
+Folder: 027_Ley de Aviacion Civil
+Downloaded: Mon Aug 25 21:23:49 PDT 2025
+
+Files Downloaded: 3/3
+- LAC_static.pdf (Static PDF version)
+- LAC_document.doc (Word document)
+- Ley_de_Aviacion_Civil_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFRSP
+Name: Ley_Federal_de_Responsabilidades_de_los_Servidores
+Folder: 162_Ley Federal de Responsabilidades de los Servidores
+Downloaded: Mon Aug 25 21:27:02 PDT 2025
+
+Files Downloaded: 3/3
+- LFRSP_static.pdf (Static PDF version)
+- LFRSP_document.doc (Word document)
+- Ley_Federal_de_Responsabilidades_de_los_Servidores_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

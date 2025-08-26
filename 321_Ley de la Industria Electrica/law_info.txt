@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIElec
+Name: Ley_de_la_Industria_Electrica
+Folder: 321_Ley de la Industria Electrica
+Downloaded: Mon Aug 25 21:31:01 PDT 2025
+
+Files Downloaded: 3/3
+- LIElec_static.pdf (Static PDF version)
+- LIElec_document.doc (Word document)
+- Ley_de_la_Industria_Electrica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

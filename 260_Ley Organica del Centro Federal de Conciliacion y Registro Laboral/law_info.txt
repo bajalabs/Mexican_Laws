@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOCFCRL_060120
+Name: Ley_Organica_del_Centro_Federal_de_Conciliacion_y_Registro_Laboral
+Folder: 260_Ley Organica del Centro Federal de Conciliacion y Registro Laboral
+Downloaded: Mon Aug 25 21:29:29 PDT 2025
+
+Files Downloaded: 3/3
+- LOCFCRL_060120_static.pdf (Static PDF version)
+- LOCFCRL_060120_document.doc (Word document)
+- Ley_Organica_del_Centro_Federal_de_Conciliacion_y_Registro_Laboral_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

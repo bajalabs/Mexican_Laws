@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGSC
+Name: Ley_General_de_Sociedades_Cooperativas
+Folder: 213_Ley General de Sociedades Cooperativas
+Downloaded: Mon Aug 25 21:28:19 PDT 2025
+
+Files Downloaded: 3/3
+- LGSC_static.pdf (Static PDF version)
+- LGSC_document.doc (Word document)
+- Ley_General_de_Sociedades_Cooperativas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

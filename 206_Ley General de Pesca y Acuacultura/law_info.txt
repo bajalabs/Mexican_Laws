@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGPAS
+Name: Ley_General_de_Pesca_y_Acuacultura
+Folder: 206_Ley General de Pesca y Acuacultura
+Downloaded: Mon Aug 25 21:28:09 PDT 2025
+
+Files Downloaded: 3/3
+- LGPAS_static.pdf (Static PDF version)
+- LGPAS_document.doc (Word document)
+- Ley_General_de_Pesca_y_Acuacultura_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

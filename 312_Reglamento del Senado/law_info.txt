@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: Reg_Senado
+Name: Reglamento_del_Senado
+Folder: 312_Reglamento del Senado
+Downloaded: Mon Aug 25 21:30:47 PDT 2025
+
+Files Downloaded: 3/3
+- Reg_Senado_static.pdf (Static PDF version)
+- Reg_Senado_document.doc (Word document)
+- Reglamento_del_Senado_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

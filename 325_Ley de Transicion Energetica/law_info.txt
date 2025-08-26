@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LTE
+Name: Ley_de_Transicion_Energetica
+Folder: 325_Ley de Transicion Energetica
+Downloaded: Mon Aug 25 21:31:07 PDT 2025
+
+Files Downloaded: 3/3
+- LTE_static.pdf (Static PDF version)
+- LTE_document.doc (Word document)
+- Ley_de_Transicion_Energetica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 96_190418
+Name: Ley_del_Servicio_Exterior_Mexicano
+Folder: 127_Ley del Servicio Exterior Mexicano
+Downloaded: Mon Aug 25 21:26:11 PDT 2025
+
+Files Downloaded: 3/3
+- 96_190418_static.pdf (Static PDF version)
+- 96_190418_document.doc (Word document)
+- Ley_del_Servicio_Exterior_Mexicano_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

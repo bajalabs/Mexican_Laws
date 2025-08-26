@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGTAIP
+Name: Ley_General_de_Transparencia_y_Acceso_a_la_Informacion_Publica
+Folder: 216_Ley General de Transparencia y Acceso a la Informacion Publica
+Downloaded: Mon Aug 25 21:28:24 PDT 2025
+
+Files Downloaded: 3/3
+- LGTAIP_static.pdf (Static PDF version)
+- LGTAIP_document.doc (Word document)
+- Ley_General_de_Transparencia_y_Acceso_a_la_Informacion_Publica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

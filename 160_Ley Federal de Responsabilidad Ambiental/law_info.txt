@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFRA_200521
+Name: Ley_Federal_de_Responsabilidad_Ambiental
+Folder: 160_Ley Federal de Responsabilidad Ambiental
+Downloaded: Mon Aug 25 21:26:59 PDT 2025
+
+Files Downloaded: 3/3
+- LFRA_200521_static.pdf (Static PDF version)
+- LFRA_200521_document.doc (Word document)
+- Ley_Federal_de_Responsabilidad_Ambiental_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

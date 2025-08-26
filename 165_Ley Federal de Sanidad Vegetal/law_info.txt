@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFSV
+Name: Ley_Federal_de_Sanidad_Vegetal
+Folder: 165_Ley Federal de Sanidad Vegetal
+Downloaded: Mon Aug 25 21:27:06 PDT 2025
+
+Files Downloaded: 3/3
+- LFSV_static.pdf (Static PDF version)
+- LFSV_document.doc (Word document)
+- Ley_Federal_de_Sanidad_Vegetal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

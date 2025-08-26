@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 246
+Name: Ley_de_Energia_para_el_Campo
+Folder: 047_Ley de Energia para el Campo
+Downloaded: Mon Aug 25 21:24:17 PDT 2025
+
+Files Downloaded: 3/3
+- 246_static.pdf (Static PDF version)
+- 246_document.doc (Word document)
+- Ley_de_Energia_para_el_Campo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

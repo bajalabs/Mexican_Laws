@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGIPE
+Name: Ley_General_de_Instituciones_y_Procedimientos_Electorales
+Folder: 198_Ley General de Instituciones y Procedimientos Electorales
+Downloaded: Mon Aug 25 21:27:56 PDT 2025
+
+Files Downloaded: 3/3
+- LGIPE_static.pdf (Static PDF version)
+- LGIPE_document.doc (Word document)
+- Ley_General_de_Instituciones_y_Procedimientos_Electorales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

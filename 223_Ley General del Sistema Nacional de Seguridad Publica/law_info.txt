@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGSNSP
+Name: Ley_General_del_Sistema_Nacional_de_Seguridad_Publica
+Folder: 223_Ley General del Sistema Nacional de Seguridad Publica
+Downloaded: Mon Aug 25 21:28:35 PDT 2025
+
+Files Downloaded: 3/3
+- LGSNSP_static.pdf (Static PDF version)
+- LGSNSP_document.doc (Word document)
+- Ley_General_del_Sistema_Nacional_de_Seguridad_Publica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

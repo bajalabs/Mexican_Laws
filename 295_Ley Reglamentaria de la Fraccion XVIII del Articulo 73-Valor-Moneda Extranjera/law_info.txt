@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 204
+Name: Ley_Reglamentaria_de_la_Fraccion_XVIII_del_Articulo_73-Valor-Moneda_Extranjera
+Folder: 295_Ley Reglamentaria de la Fraccion XVIII del Articulo 73-Valor-Moneda Extranjera
+Downloaded: Mon Aug 25 21:30:20 PDT 2025
+
+Files Downloaded: 3/3
+- 204_static.pdf (Static PDF version)
+- 204_document.doc (Word document)
+- Ley_Reglamentaria_de_la_Fraccion_XVIII_del_Articulo_73-Valor-Moneda_Extranjera_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

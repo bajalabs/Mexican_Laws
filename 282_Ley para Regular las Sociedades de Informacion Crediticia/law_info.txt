@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LRSIC
+Name: Ley_para_Regular_las_Sociedades_de_Informacion_Crediticia
+Folder: 282_Ley para Regular las Sociedades de Informacion Crediticia
+Downloaded: Mon Aug 25 21:30:02 PDT 2025
+
+Files Downloaded: 3/3
+- LRSIC_static.pdf (Static PDF version)
+- LRSIC_document.doc (Word document)
+- Ley_para_Regular_las_Sociedades_de_Informacion_Crediticia_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

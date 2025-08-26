@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGPDPPSO_2017
+Name: Ley_General_de_Proteccion_de_Datos_Personales-Posesion-Sujetos_Obligados-2017
+Folder: 330_Ley General de Proteccion de Datos Personales-Posesion-Sujetos Obligados-2017
+Downloaded: Mon Aug 25 21:31:15 PDT 2025
+
+Files Downloaded: 3/3
+- LGPDPPSO_2017_static.pdf (Static PDF version)
+- LGPDPPSO_2017_document.doc (Word document)
+- Ley_General_de_Proteccion_de_Datos_Personales-Posesion-Sujetos_Obligados-2017_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

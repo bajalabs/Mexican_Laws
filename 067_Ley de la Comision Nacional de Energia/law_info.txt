@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCNE
+Name: Ley_de_la_Comision_Nacional_de_Energia
+Folder: 067_Ley de la Comision Nacional de Energia
+Downloaded: Mon Aug 25 21:24:45 PDT 2025
+
+Files Downloaded: 3/3
+- LCNE_static.pdf (Static PDF version)
+- LCNE_document.doc (Word document)
+- Ley_de_la_Comision_Nacional_de_Energia_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

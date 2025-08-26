@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGES_200421
+Name: Ley_General_de_Educacion_Superior
+Folder: 197_Ley General de Educacion Superior
+Downloaded: Mon Aug 25 21:27:54 PDT 2025
+
+Files Downloaded: 3/3
+- LGES_200421_static.pdf (Static PDF version)
+- LGES_200421_document.doc (Word document)
+- Ley_General_de_Educacion_Superior_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

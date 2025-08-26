@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LPF
+Name: Ley_de_la_Policia_Federal
+Folder: 074_Ley de la Policia Federal
+Downloaded: Mon Aug 25 21:24:55 PDT 2025
+
+Files Downloaded: 3/3
+- LPF_static.pdf (Static PDF version)
+- LPF_document.doc (Word document)
+- Ley_de_la_Policia_Federal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

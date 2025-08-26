@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGE
+Name: Ley_General_de_Educacion
+Folder: 196_Ley General de Educacion
+Downloaded: Mon Aug 25 21:27:52 PDT 2025
+
+Files Downloaded: 3/3
+- LGE_static.pdf (Static PDF version)
+- LGE_document.doc (Word document)
+- Ley_General_de_Educacion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFPDPPP_2010
+Name: Ley_Federal_de_Proteccion_de_Datos_Personales-Posesion-Particulares-2010
+Folder: 326_Ley Federal de Proteccion de Datos Personales-Posesion-Particulares-2010
+Downloaded: Mon Aug 25 21:31:08 PDT 2025
+
+Files Downloaded: 3/3
+- LFPDPPP_2010_static.pdf (Static PDF version)
+- LFPDPPP_2010_document.doc (Word document)
+- Ley_Federal_de_Proteccion_de_Datos_Personales-Posesion-Particulares-2010_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

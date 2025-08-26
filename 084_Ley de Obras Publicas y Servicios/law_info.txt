@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOPSRM
+Name: Ley_de_Obras_Publicas_y_Servicios
+Folder: 084_Ley de Obras Publicas y Servicios
+Downloaded: Mon Aug 25 21:25:13 PDT 2025
+
+Files Downloaded: 3/3
+- LOPSRM_static.pdf (Static PDF version)
+- LOPSRM_document.doc (Word document)
+- Ley_de_Obras_Publicas_y_Servicios_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

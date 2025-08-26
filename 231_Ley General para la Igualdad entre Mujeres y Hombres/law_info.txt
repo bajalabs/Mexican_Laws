@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGIMH
+Name: Ley_General_para_la_Igualdad_entre_Mujeres_y_Hombres
+Folder: 231_Ley General para la Igualdad entre Mujeres y Hombres
+Downloaded: Mon Aug 25 21:28:47 PDT 2025
+
+Files Downloaded: 3/3
+- LGIMH_static.pdf (Static PDF version)
+- LGIMH_document.doc (Word document)
+- Ley_General_para_la_Igualdad_entre_Mujeres_y_Hombres_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

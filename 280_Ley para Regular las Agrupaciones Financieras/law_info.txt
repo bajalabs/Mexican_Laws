@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LRAF
+Name: Ley_para_Regular_las_Agrupaciones_Financieras
+Folder: 280_Ley para Regular las Agrupaciones Financieras
+Downloaded: Mon Aug 25 21:29:59 PDT 2025
+
+Files Downloaded: 3/3
+- LRAF_static.pdf (Static PDF version)
+- LRAF_document.doc (Word document)
+- Ley_para_Regular_las_Agrupaciones_Financieras_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

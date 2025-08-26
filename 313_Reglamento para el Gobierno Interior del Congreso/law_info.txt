@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 219
+Name: Reglamento_para_el_Gobierno_Interior_del_Congreso
+Folder: 313_Reglamento para el Gobierno Interior del Congreso
+Downloaded: Mon Aug 25 21:30:48 PDT 2025
+
+Files Downloaded: 3/3
+- 219_static.pdf (Static PDF version)
+- 219_document.doc (Word document)
+- Reglamento_para_el_Gobierno_Interior_del_Congreso_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

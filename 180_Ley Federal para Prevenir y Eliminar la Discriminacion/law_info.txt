@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFPED
+Name: Ley_Federal_para_Prevenir_y_Eliminar_la_Discriminacion
+Folder: 180_Ley Federal para Prevenir y Eliminar la Discriminacion
+Downloaded: Mon Aug 25 21:27:28 PDT 2025
+
+Files Downloaded: 3/3
+- LFPED_static.pdf (Static PDF version)
+- LFPED_document.doc (Word document)
+- Ley_Federal_para_Prevenir_y_Eliminar_la_Discriminacion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 23
+Name: Ley_sobre_Camaras_Agricolas-Asociaciones_Agricolas
+Folder: 302_Ley sobre Camaras Agricolas-Asociaciones Agricolas
+Downloaded: Mon Aug 25 21:30:29 PDT 2025
+
+Files Downloaded: 3/3
+- 23_static.pdf (Static PDF version)
+- 23_document.doc (Word document)
+- Ley_sobre_Camaras_Agricolas-Asociaciones_Agricolas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

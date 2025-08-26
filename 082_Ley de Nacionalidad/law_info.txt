@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 53
+Name: Ley_de_Nacionalidad
+Folder: 082_Ley de Nacionalidad
+Downloaded: Mon Aug 25 21:25:10 PDT 2025
+
+Files Downloaded: 3/3
+- 53_static.pdf (Static PDF version)
+- 53_document.doc (Word document)
+- Ley_de_Nacionalidad_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

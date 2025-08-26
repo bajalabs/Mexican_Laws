@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LMV
+Name: Ley_del_Mercado_de_Valores
+Folder: 121_Ley del Mercado de Valores
+Downloaded: Mon Aug 25 21:26:02 PDT 2025
+
+Files Downloaded: 3/3
+- LMV_static.pdf (Static PDF version)
+- LMV_document.doc (Word document)
+- Ley_del_Mercado_de_Valores_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

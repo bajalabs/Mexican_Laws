@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LSM
+Name: Ley_del_Servicio_Militar
+Folder: 128_Ley del Servicio Militar
+Downloaded: Mon Aug 25 21:26:13 PDT 2025
+
+Files Downloaded: 3/3
+- LSM_static.pdf (Static PDF version)
+- LSM_document.doc (Word document)
+- Ley_del_Servicio_Militar_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

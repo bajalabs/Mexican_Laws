@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGAHOTDU
+Name: Ley_General_de_Asentamientos_Humanos_Ordenamiento_Territorial-Desarrollo_Urbano
+Folder: 185_Ley General de Asentamientos Humanos Ordenamiento Territorial-Desarrollo Urbano
+Downloaded: Mon Aug 25 21:27:36 PDT 2025
+
+Files Downloaded: 3/3
+- LGAHOTDU_static.pdf (Static PDF version)
+- LGAHOTDU_document.doc (Word document)
+- Ley_General_de_Asentamientos_Humanos_Ordenamiento_Territorial-Desarrollo_Urbano_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

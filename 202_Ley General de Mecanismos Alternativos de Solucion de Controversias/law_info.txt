@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGMASC
+Name: Ley_General_de_Mecanismos_Alternativos_de_Solucion_de_Controversias
+Folder: 202_Ley General de Mecanismos Alternativos de Solucion de Controversias
+Downloaded: Mon Aug 25 21:28:02 PDT 2025
+
+Files Downloaded: 3/3
+- LGMASC_static.pdf (Static PDF version)
+- LGMASC_document.doc (Word document)
+- Ley_General_de_Mecanismos_Alternativos_de_Solucion_de_Controversias_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

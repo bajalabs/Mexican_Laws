@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFISAN
+Name: Ley_Federal_del_Impuesto_sobre_Automoviles_Nuevos
+Folder: 170_Ley Federal del Impuesto sobre Automoviles Nuevos
+Downloaded: Mon Aug 25 21:27:14 PDT 2025
+
+Files Downloaded: 3/3
+- LFISAN_static.pdf (Static PDF version)
+- LFISAN_document.doc (Word document)
+- Ley_Federal_del_Impuesto_sobre_Automoviles_Nuevos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

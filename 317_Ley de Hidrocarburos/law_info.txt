@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LHidro
+Name: Ley_de_Hidrocarburos
+Folder: 317_Ley de Hidrocarburos
+Downloaded: Mon Aug 25 21:30:54 PDT 2025
+
+Files Downloaded: 3/3
+- LHidro_static.pdf (Static PDF version)
+- LHidro_document.doc (Word document)
+- Ley_de_Hidrocarburos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

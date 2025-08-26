@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGDS
+Name: Ley_General_de_Desarrollo_Social
+Folder: 195_Ley General de Desarrollo Social
+Downloaded: Mon Aug 25 21:27:50 PDT 2025
+
+Files Downloaded: 3/3
+- LGDS_static.pdf (Static PDF version)
+- LGDS_document.doc (Word document)
+- Ley_General_de_Desarrollo_Social_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

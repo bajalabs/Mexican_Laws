@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAmn
+Name: Ley_de_Amnistia
+Folder: 019_Ley de Amnistia
+Downloaded: Mon Aug 25 21:23:37 PDT 2025
+
+Files Downloaded: 3/3
+- LAmn_static.pdf (Static PDF version)
+- LAmn_document.doc (Word document)
+- Ley_de_Amnistia_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

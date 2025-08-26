@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 176_210618
+Name: Ley_para_Conservar_la_Neutralidad_del_Pais
+Folder: 268_Ley para Conservar la Neutralidad del Pais
+Downloaded: Mon Aug 25 21:29:42 PDT 2025
+
+Files Downloaded: 3/3
+- 176_210618_static.pdf (Static PDF version)
+- 176_210618_document.doc (Word document)
+- Ley_para_Conservar_la_Neutralidad_del_Pais_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

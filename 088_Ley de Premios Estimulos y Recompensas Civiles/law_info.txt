@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LPERC
+Name: Ley_de_Premios_Estimulos_y_Recompensas_Civiles
+Folder: 088_Ley de Premios Estimulos y Recompensas Civiles
+Downloaded: Mon Aug 25 21:25:18 PDT 2025
+
+Files Downloaded: 3/3
+- LPERC_static.pdf (Static PDF version)
+- LPERC_document.doc (Word document)
+- Ley_de_Premios_Estimulos_y_Recompensas_Civiles_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

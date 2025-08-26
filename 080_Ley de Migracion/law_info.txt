@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LMigra
+Name: Ley_de_Migracion
+Folder: 080_Ley de Migracion
+Downloaded: Mon Aug 25 21:25:07 PDT 2025
+
+Files Downloaded: 3/3
+- LMigra_static.pdf (Static PDF version)
+- LMigra_document.doc (Word document)
+- Ley_de_Migracion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

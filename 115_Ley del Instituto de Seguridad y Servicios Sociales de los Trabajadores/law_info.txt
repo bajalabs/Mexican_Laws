@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LISSSTE
+Name: Ley_del_Instituto_de_Seguridad_y_Servicios_Sociales_de_los_Trabajadores
+Folder: 115_Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores
+Downloaded: Mon Aug 25 21:25:54 PDT 2025
+
+Files Downloaded: 3/3
+- LISSSTE_static.pdf (Static PDF version)
+- LISSSTE_document.doc (Word document)
+- Ley_del_Instituto_de_Seguridad_y_Servicios_Sociales_de_los_Trabajadores_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

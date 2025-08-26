@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFVV
+Name: Ley_Federal_de_Variedades_Vegetales
+Folder: 167_Ley Federal de Variedades Vegetales
+Downloaded: Mon Aug 25 21:27:09 PDT 2025
+
+Files Downloaded: 3/3
+- LFVV_static.pdf (Static PDF version)
+- LFVV_document.doc (Word document)
+- Ley_Federal_de_Variedades_Vegetales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

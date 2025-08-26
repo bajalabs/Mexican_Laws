@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 195
+Name: Ley_que_crea_la_Universidad_Autonoma_Chapingo
+Folder: 287_Ley que crea la Universidad Autonoma Chapingo
+Downloaded: Mon Aug 25 21:30:09 PDT 2025
+
+Files Downloaded: 3/3
+- 195_static.pdf (Static PDF version)
+- 195_document.doc (Word document)
+- Ley_que_crea_la_Universidad_Autonoma_Chapingo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

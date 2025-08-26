@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGIPD
+Name: Ley_General_para_la_Inclusion_de_las_Personas_con_Discapacidad
+Folder: 232_Ley General para la Inclusion de las Personas con Discapacidad
+Downloaded: Mon Aug 25 21:28:48 PDT 2025
+
+Files Downloaded: 3/3
+- LGIPD_static.pdf (Static PDF version)
+- LGIPD_document.doc (Word document)
+- Ley_General_para_la_Inclusion_de_las_Personas_con_Discapacidad_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

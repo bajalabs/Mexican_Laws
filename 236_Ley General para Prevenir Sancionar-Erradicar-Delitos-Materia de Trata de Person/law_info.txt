@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGPSEDMTP
+Name: Ley_General_para_Prevenir_Sancionar-Erradicar-Delitos-Materia_de_Trata_de_Personas-Victimas
+Folder: 236_Ley General para Prevenir Sancionar-Erradicar-Delitos-Materia de Trata de Person
+Downloaded: Mon Aug 25 21:28:54 PDT 2025
+
+Files Downloaded: 3/3
+- LGPSEDMTP_static.pdf (Static PDF version)
+- LGPSEDMTP_document.doc (Word document)
+- Ley_General_para_Prevenir_Sancionar-Erradicar-Delitos-Materia_de_Trata_de_Personas-Victimas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

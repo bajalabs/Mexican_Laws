@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 158
+Name: Ley_Organica_de_la_Universidad_Nacional_Autonoma_de_Mexico
+Folder: 252_Ley Organica de la Universidad Nacional Autonoma de Mexico
+Downloaded: Mon Aug 25 21:29:18 PDT 2025
+
+Files Downloaded: 3/3
+- 158_static.pdf (Static PDF version)
+- 158_document.doc (Word document)
+- Ley_Organica_de_la_Universidad_Nacional_Autonoma_de_Mexico_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

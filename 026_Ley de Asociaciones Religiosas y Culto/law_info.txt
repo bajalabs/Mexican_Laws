@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 24_171215
+Name: Ley_de_Asociaciones_Religiosas_y_Culto
+Folder: 026_Ley de Asociaciones Religiosas y Culto
+Downloaded: Mon Aug 25 21:23:47 PDT 2025
+
+Files Downloaded: 3/3
+- 24_171215_static.pdf (Static PDF version)
+- 24_171215_document.doc (Word document)
+- Ley_de_Asociaciones_Religiosas_y_Culto_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

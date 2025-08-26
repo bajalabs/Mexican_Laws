@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LANSI
+Name: Ley_de_la_Agencia_Nacional_de_Seguridad_Industrial-Medio_Ambiente-Sector_Hidrocarburos
+Folder: 064_Ley de la Agencia Nacional de Seguridad Industrial-Medio Ambiente-Sector Hidroca
+Downloaded: Mon Aug 25 21:24:42 PDT 2025
+
+Files Downloaded: 3/3
+- LANSI_static.pdf (Static PDF version)
+- LANSI_document.doc (Word document)
+- Ley_de_la_Agencia_Nacional_de_Seguridad_Industrial-Medio_Ambiente-Sector_Hidrocarburos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

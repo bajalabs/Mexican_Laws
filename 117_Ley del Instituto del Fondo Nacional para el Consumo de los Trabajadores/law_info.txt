@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIFNCT
+Name: Ley_del_Instituto_del_Fondo_Nacional_para_el_Consumo_de_los_Trabajadores
+Folder: 117_Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores
+Downloaded: Mon Aug 25 21:25:57 PDT 2025
+
+Files Downloaded: 3/3
+- LIFNCT_static.pdf (Static PDF version)
+- LIFNCT_document.doc (Word document)
+- Ley_del_Instituto_del_Fondo_Nacional_para_el_Consumo_de_los_Trabajadores_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

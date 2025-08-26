@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LSAR
+Name: Ley_de_los_Sistemas_de_Ahorro_para_el_Retiro
+Folder: 079_Ley de los Sistemas de Ahorro para el Retiro
+Downloaded: Mon Aug 25 21:25:06 PDT 2025
+
+Files Downloaded: 3/3
+- LSAR_static.pdf (Static PDF version)
+- LSAR_document.doc (Word document)
+- Ley_de_los_Sistemas_de_Ahorro_para_el_Retiro_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

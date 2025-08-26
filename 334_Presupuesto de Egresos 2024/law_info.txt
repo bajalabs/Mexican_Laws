@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: PEF_2024
+Name: Presupuesto_de_Egresos_2024
+Folder: 334_Presupuesto de Egresos 2024
+Downloaded: Mon Aug 25 21:31:22 PDT 2025
+
+Files Downloaded: 3/3
+- PEF_2024_static.pdf (Static PDF version)
+- PEF_2024_document.doc (Word document)
+- Presupuesto_de_Egresos_2024_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

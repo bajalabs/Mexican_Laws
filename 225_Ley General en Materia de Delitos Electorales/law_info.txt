@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGMDE_200521
+Name: Ley_General_en_Materia_de_Delitos_Electorales
+Folder: 225_Ley General en Materia de Delitos Electorales
+Downloaded: Mon Aug 25 21:28:38 PDT 2025
+
+Files Downloaded: 3/3
+- LGMDE_200521_static.pdf (Static PDF version)
+- LGMDE_200521_document.doc (Word document)
+- Ley_General_en_Materia_de_Delitos_Electorales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

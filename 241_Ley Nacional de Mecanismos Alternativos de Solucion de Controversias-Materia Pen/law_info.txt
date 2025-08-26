@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LNMASCMP
+Name: Ley_Nacional_de_Mecanismos_Alternativos_de_Solucion_de_Controversias-Materia_Penal
+Folder: 241_Ley Nacional de Mecanismos Alternativos de Solucion de Controversias-Materia Pen
+Downloaded: Mon Aug 25 21:29:02 PDT 2025
+
+Files Downloaded: 3/3
+- LNMASCMP_static.pdf (Static PDF version)
+- LNMASCMP_document.doc (Word document)
+- Ley_Nacional_de_Mecanismos_Alternativos_de_Solucion_de_Controversias-Materia_Penal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

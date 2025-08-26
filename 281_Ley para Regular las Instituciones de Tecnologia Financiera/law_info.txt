@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LRITF
+Name: Ley_para_Regular_las_Instituciones_de_Tecnologia_Financiera
+Folder: 281_Ley para Regular las Instituciones de Tecnologia Financiera
+Downloaded: Mon Aug 25 21:30:01 PDT 2025
+
+Files Downloaded: 3/3
+- LRITF_static.pdf (Static PDF version)
+- LRITF_document.doc (Word document)
+- Ley_para_Regular_las_Instituciones_de_Tecnologia_Financiera_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

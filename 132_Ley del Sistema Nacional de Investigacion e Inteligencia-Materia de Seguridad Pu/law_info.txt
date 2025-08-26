@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LSNIIMSP
+Name: Ley_del_Sistema_Nacional_de_Investigacion_e_Inteligencia-Materia_de_Seguridad_Publica
+Folder: 132_Ley del Sistema Nacional de Investigacion e Inteligencia-Materia de Seguridad Pu
+Downloaded: Mon Aug 25 21:26:18 PDT 2025
+
+Files Downloaded: 3/3
+- LSNIIMSP_static.pdf (Static PDF version)
+- LSNIIMSP_document.doc (Word document)
+- Ley_del_Sistema_Nacional_de_Investigacion_e_Inteligencia-Materia_de_Seguridad_Publica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

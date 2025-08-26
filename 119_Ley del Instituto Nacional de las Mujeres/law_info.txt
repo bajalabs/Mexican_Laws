@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 88_200521
+Name: Ley_del_Instituto_Nacional_de_las_Mujeres
+Folder: 119_Ley del Instituto Nacional de las Mujeres
+Downloaded: Mon Aug 25 21:25:59 PDT 2025
+
+Files Downloaded: 3/3
+- 88_200521_static.pdf (Static PDF version)
+- 88_200521_document.doc (Word document)
+- Ley_del_Instituto_Nacional_de_las_Mujeres_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGCFD
+Name: Ley_General_de_Cultura_Fisica_y_Deporte
+Folder: 191_Ley General de Cultura Fisica y Deporte
+Downloaded: Mon Aug 25 21:27:45 PDT 2025
+
+Files Downloaded: 3/3
+- LGCFD_static.pdf (Static PDF version)
+- LGCFD_document.doc (Word document)
+- Ley_General_de_Cultura_Fisica_y_Deporte_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

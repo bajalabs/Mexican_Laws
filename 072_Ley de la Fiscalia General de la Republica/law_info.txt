@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFGR
+Name: Ley_de_la_Fiscalia_General_de_la_Republica
+Folder: 072_Ley de la Fiscalia General de la Republica
+Downloaded: Mon Aug 25 21:24:52 PDT 2025
+
+Files Downloaded: 3/3
+- LFGR_static.pdf (Static PDF version)
+- LFGR_document.doc (Word document)
+- Ley_de_la_Fiscalia_General_de_la_Republica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

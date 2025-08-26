@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LPDUSF
+Name: Ley_de_Proteccion_y_Defensa_al_Usuario_de_Servicios_Financieros
+Folder: 093_Ley de Proteccion y Defensa al Usuario de Servicios Financieros
+Downloaded: Mon Aug 25 21:25:24 PDT 2025
+
+Files Downloaded: 3/3
+- LPDUSF_static.pdf (Static PDF version)
+- LPDUSF_document.doc (Word document)
+- Ley_de_Proteccion_y_Defensa_al_Usuario_de_Servicios_Financieros_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

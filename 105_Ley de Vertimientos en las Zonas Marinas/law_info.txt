@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LVZMM_130420
+Name: Ley_de_Vertimientos_en_las_Zonas_Marinas
+Folder: 105_Ley de Vertimientos en las Zonas Marinas
+Downloaded: Mon Aug 25 21:25:39 PDT 2025
+
+Files Downloaded: 3/3
+- LVZMM_130420_static.pdf (Static PDF version)
+- LVZMM_130420_document.doc (Word document)
+- Ley_de_Vertimientos_en_las_Zonas_Marinas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

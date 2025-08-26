@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 171
+Name: Ley_Organica_del_Instituto_Politecnico_Nacional
+Folder: 264_Ley Organica del Instituto Politecnico Nacional
+Downloaded: Mon Aug 25 21:29:36 PDT 2025
+
+Files Downloaded: 3/3
+- 171_static.pdf (Static PDF version)
+- 171_document.doc (Word document)
+- Ley_Organica_del_Instituto_Politecnico_Nacional_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

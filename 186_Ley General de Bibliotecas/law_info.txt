@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGB
+Name: Ley_General_de_Bibliotecas
+Folder: 186_Ley General de Bibliotecas
+Downloaded: Mon Aug 25 21:27:37 PDT 2025
+
+Files Downloaded: 3/3
+- LGB_static.pdf (Static PDF version)
+- LGB_document.doc (Word document)
+- Ley_General_de_Bibliotecas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

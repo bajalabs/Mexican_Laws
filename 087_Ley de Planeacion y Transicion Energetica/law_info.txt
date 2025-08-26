@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LPTE
+Name: Ley_de_Planeacion_y_Transicion_Energetica
+Folder: 087_Ley de Planeacion y Transicion Energetica
+Downloaded: Mon Aug 25 21:25:16 PDT 2025
+
+Files Downloaded: 3/3
+- LPTE_static.pdf (Static PDF version)
+- LPTE_document.doc (Word document)
+- Ley_de_Planeacion_y_Transicion_Energetica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

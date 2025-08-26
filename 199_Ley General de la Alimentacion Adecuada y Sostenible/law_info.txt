@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGAAS
+Name: Ley_General_de_la_Alimentacion_Adecuada_y_Sostenible
+Folder: 199_Ley General de la Alimentacion Adecuada y Sostenible
+Downloaded: Mon Aug 25 21:27:57 PDT 2025
+
+Files Downloaded: 3/3
+- LGAAS_static.pdf (Static PDF version)
+- LGAAS_document.doc (Word document)
+- Ley_General_de_la_Alimentacion_Adecuada_y_Sostenible_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

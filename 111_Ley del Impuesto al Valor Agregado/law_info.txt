@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIVA
+Name: Ley_del_Impuesto_al_Valor_Agregado
+Folder: 111_Ley del Impuesto al Valor Agregado
+Downloaded: Mon Aug 25 21:25:48 PDT 2025
+
+Files Downloaded: 3/3
+- LIVA_static.pdf (Static PDF version)
+- LIVA_document.doc (Word document)
+- Ley_del_Impuesto_al_Valor_Agregado_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

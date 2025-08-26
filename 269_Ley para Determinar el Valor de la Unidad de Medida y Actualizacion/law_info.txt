@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LDVUMA_301216
+Name: Ley_para_Determinar_el_Valor_de_la_Unidad_de_Medida_y_Actualizacion
+Folder: 269_Ley para Determinar el Valor de la Unidad de Medida y Actualizacion
+Downloaded: Mon Aug 25 21:29:44 PDT 2025
+
+Files Downloaded: 3/3
+- LDVUMA_301216_static.pdf (Static PDF version)
+- LDVUMA_301216_document.doc (Word document)
+- Ley_para_Determinar_el_Valor_de_la_Unidad_de_Medida_y_Actualizacion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

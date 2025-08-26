@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFDefP
+Name: Ley_Federal_de_Defensoria_Publica
+Folder: 143_Ley Federal de Defensoria Publica
+Downloaded: Mon Aug 25 21:26:34 PDT 2025
+
+Files Downloaded: 3/3
+- LFDefP_static.pdf (Static PDF version)
+- LFDefP_document.doc (Word document)
+- Ley_Federal_de_Defensoria_Publica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

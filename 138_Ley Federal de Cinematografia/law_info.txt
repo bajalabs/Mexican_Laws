@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 103_220321
+Name: Ley_Federal_de_Cinematografia
+Folder: 138_Ley Federal de Cinematografia
+Downloaded: Mon Aug 25 21:26:27 PDT 2025
+
+Files Downloaded: 3/3
+- 103_220321_static.pdf (Static PDF version)
+- 103_220321_document.doc (Word document)
+- Ley_Federal_de_Cinematografia_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

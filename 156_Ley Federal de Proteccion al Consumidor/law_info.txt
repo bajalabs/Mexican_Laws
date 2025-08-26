@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFPC
+Name: Ley_Federal_de_Proteccion_al_Consumidor
+Folder: 156_Ley Federal de Proteccion al Consumidor
+Downloaded: Mon Aug 25 21:26:54 PDT 2025
+
+Files Downloaded: 3/3
+- LFPC_static.pdf (Static PDF version)
+- LFPC_document.doc (Word document)
+- Ley_Federal_de_Proteccion_al_Consumidor_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

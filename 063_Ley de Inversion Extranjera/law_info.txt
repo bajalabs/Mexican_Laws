@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIE
+Name: Ley_de_Inversion_Extranjera
+Folder: 063_Ley de Inversion Extranjera
+Downloaded: Mon Aug 25 21:24:40 PDT 2025
+
+Files Downloaded: 3/3
+- LIE_static.pdf (Static PDF version)
+- LIE_document.doc (Word document)
+- Ley_de_Inversion_Extranjera_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

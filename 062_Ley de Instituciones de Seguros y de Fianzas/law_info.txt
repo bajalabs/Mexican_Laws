@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LISF
+Name: Ley_de_Instituciones_de_Seguros_y_de_Fianzas
+Folder: 062_Ley de Instituciones de Seguros y de Fianzas
+Downloaded: Mon Aug 25 21:24:39 PDT 2025
+
+Files Downloaded: 3/3
+- LISF_static.pdf (Static PDF version)
+- LISF_document.doc (Word document)
+- Ley_de_Instituciones_de_Seguros_y_de_Fianzas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

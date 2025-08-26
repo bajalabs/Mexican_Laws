@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LViv
+Name: Ley_de_Vivienda
+Folder: 107_Ley de Vivienda
+Downloaded: Mon Aug 25 21:25:42 PDT 2025
+
+Files Downloaded: 3/3
+- LViv_static.pdf (Static PDF version)
+- LViv_document.doc (Word document)
+- Ley_de_Vivienda_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

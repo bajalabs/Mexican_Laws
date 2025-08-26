@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LPM_110814
+Name: Ley_de_Petroleos_Mexicanos
+Folder: 323_Ley de Petroleos Mexicanos
+Downloaded: Mon Aug 25 21:31:04 PDT 2025
+
+Files Downloaded: 3/3
+- LPM_110814_static.pdf (Static PDF version)
+- LPM_110814_document.doc (Word document)
+- Ley_de_Petroleos_Mexicanos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

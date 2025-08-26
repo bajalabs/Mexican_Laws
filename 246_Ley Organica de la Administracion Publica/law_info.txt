@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOAPF
+Name: Ley_Organica_de_la_Administracion_Publica
+Folder: 246_Ley Organica de la Administracion Publica
+Downloaded: Mon Aug 25 21:29:09 PDT 2025
+
+Files Downloaded: 3/3
+- LOAPF_static.pdf (Static PDF version)
+- LOAPF_document.doc (Word document)
+- Ley_Organica_de_la_Administracion_Publica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

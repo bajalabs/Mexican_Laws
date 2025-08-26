@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LSS
+Name: Ley_del_Seguro_Social
+Folder: 125_Ley del Seguro Social
+Downloaded: Mon Aug 25 21:26:09 PDT 2025
+
+Files Downloaded: 3/3
+- LSS_static.pdf (Static PDF version)
+- LSS_document.doc (Word document)
+- Ley_del_Seguro_Social_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

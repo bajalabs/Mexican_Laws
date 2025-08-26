@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOSCM
+Name: Ley_Organica_del_Seminario_de_Cultura
+Folder: 266_Ley Organica del Seminario de Cultura
+Downloaded: Mon Aug 25 21:29:39 PDT 2025
+
+Files Downloaded: 3/3
+- LOSCM_static.pdf (Static PDF version)
+- LOSCM_document.doc (Word document)
+- Ley_Organica_del_Seminario_de_Cultura_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGPP
+Name: Ley_General_de_Partidos_Politicos
+Folder: 205_Ley General de Partidos Politicos
+Downloaded: Mon Aug 25 21:28:07 PDT 2025
+
+Files Downloaded: 3/3
+- LGPP_static.pdf (Static PDF version)
+- LGPP_document.doc (Word document)
+- Ley_General_de_Partidos_Politicos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

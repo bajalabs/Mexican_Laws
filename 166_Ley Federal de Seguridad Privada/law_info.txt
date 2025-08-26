@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFSP
+Name: Ley_Federal_de_Seguridad_Privada
+Folder: 166_Ley Federal de Seguridad Privada
+Downloaded: Mon Aug 25 21:27:08 PDT 2025
+
+Files Downloaded: 3/3
+- LFSP_static.pdf (Static PDF version)
+- LFSP_document.doc (Word document)
+- Ley_Federal_de_Seguridad_Privada_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

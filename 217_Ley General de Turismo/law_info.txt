@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGT
+Name: Ley_General_de_Turismo
+Folder: 217_Ley General de Turismo
+Downloaded: Mon Aug 25 21:28:25 PDT 2025
+
+Files Downloaded: 3/3
+- LGT_static.pdf (Static PDF version)
+- LGT_document.doc (Word document)
+- Ley_General_de_Turismo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

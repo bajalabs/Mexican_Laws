@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOBNOSP
+Name: Ley_Organica_del_Banco_Nacional_de_Obras_y_Servicios
+Folder: 258_Ley Organica del Banco Nacional de Obras y Servicios
+Downloaded: Mon Aug 25 21:29:26 PDT 2025
+
+Files Downloaded: 3/3
+- LOBNOSP_static.pdf (Static PDF version)
+- LOBNOSP_document.doc (Word document)
+- Ley_Organica_del_Banco_Nacional_de_Obras_y_Servicios_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

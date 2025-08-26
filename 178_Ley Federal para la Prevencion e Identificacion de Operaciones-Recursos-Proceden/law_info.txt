@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFPIORPI_200521
+Name: Ley_Federal_para_la_Prevencion_e_Identificacion_de_Operaciones-Recursos-Procedencia_Ilicita
+Folder: 178_Ley Federal para la Prevencion e Identificacion de Operaciones-Recursos-Proceden
+Downloaded: Mon Aug 25 21:27:25 PDT 2025
+
+Files Downloaded: 3/3
+- LFPIORPI_200521_static.pdf (Static PDF version)
+- LFPIORPI_200521_document.doc (Word document)
+- Ley_Federal_para_la_Prevencion_e_Identificacion_de_Operaciones-Recursos-Procedencia_Ilicita_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

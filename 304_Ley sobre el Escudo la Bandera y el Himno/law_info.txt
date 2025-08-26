@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LEBHN
+Name: Ley_sobre_el_Escudo_la_Bandera_y_el_Himno
+Folder: 304_Ley sobre el Escudo la Bandera y el Himno
+Downloaded: Mon Aug 25 21:30:32 PDT 2025
+
+Files Downloaded: 3/3
+- LEBHN_static.pdf (Static PDF version)
+- LEBHN_document.doc (Word document)
+- Ley_sobre_el_Escudo_la_Bandera_y_el_Himno_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

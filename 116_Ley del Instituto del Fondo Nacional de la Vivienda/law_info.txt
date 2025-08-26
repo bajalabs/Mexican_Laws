@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIFNVT
+Name: Ley_del_Instituto_del_Fondo_Nacional_de_la_Vivienda
+Folder: 116_Ley del Instituto del Fondo Nacional de la Vivienda
+Downloaded: Mon Aug 25 21:25:56 PDT 2025
+
+Files Downloaded: 3/3
+- LIFNVT_static.pdf (Static PDF version)
+- LIFNVT_document.doc (Word document)
+- Ley_del_Instituto_del_Fondo_Nacional_de_la_Vivienda_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

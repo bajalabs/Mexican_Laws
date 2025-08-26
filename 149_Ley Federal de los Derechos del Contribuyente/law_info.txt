@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFDC
+Name: Ley_Federal_de_los_Derechos_del_Contribuyente
+Folder: 149_Ley Federal de los Derechos del Contribuyente
+Downloaded: Mon Aug 25 21:26:43 PDT 2025
+
+Files Downloaded: 3/3
+- LFDC_static.pdf (Static PDF version)
+- LFDC_document.doc (Word document)
+- Ley_Federal_de_los_Derechos_del_Contribuyente_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LMTR
+Name: Ley_en_Materia_de_Telecomunicaciones_y_Radiodifusion
+Folder: 134_Ley en Materia de Telecomunicaciones y Radiodifusion
+Downloaded: Mon Aug 25 21:26:21 PDT 2025
+
+Files Downloaded: 3/3
+- LMTR_static.pdf (Static PDF version)
+- LMTR_document.doc (Word document)
+- Ley_en_Materia_de_Telecomunicaciones_y_Radiodifusion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

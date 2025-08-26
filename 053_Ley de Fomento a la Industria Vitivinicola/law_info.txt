@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFIV_230518
+Name: Ley_de_Fomento_a_la_Industria_Vitivinicola
+Folder: 053_Ley de Fomento a la Industria Vitivinicola
+Downloaded: Mon Aug 25 21:24:24 PDT 2025
+
+Files Downloaded: 3/3
+- LFIV_230518_static.pdf (Static PDF version)
+- LFIV_230518_document.doc (Word document)
+- Ley_de_Fomento_a_la_Industria_Vitivinicola_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

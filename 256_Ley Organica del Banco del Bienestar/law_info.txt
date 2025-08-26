@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 164_190719
+Name: Ley_Organica_del_Banco_del_Bienestar
+Folder: 256_Ley Organica del Banco del Bienestar
+Downloaded: Mon Aug 25 21:29:23 PDT 2025
+
+Files Downloaded: 3/3
+- 164_190719_static.pdf (Static PDF version)
+- 164_190719_document.doc (Word document)
+- Ley_Organica_del_Banco_del_Bienestar_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

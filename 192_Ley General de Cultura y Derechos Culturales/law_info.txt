@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGCDC
+Name: Ley_General_de_Cultura_y_Derechos_Culturales
+Folder: 192_Ley General de Cultura y Derechos Culturales
+Downloaded: Mon Aug 25 21:27:46 PDT 2025
+
+Files Downloaded: 3/3
+- LGCDC_static.pdf (Static PDF version)
+- LGCDC_document.doc (Word document)
+- Ley_General_de_Cultura_y_Derechos_Culturales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

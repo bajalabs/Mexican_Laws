@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 170_171215
+Name: Ley_Organica_del_Instituto_Nacional_de_Antropologia_e_Historia
+Folder: 263_Ley Organica del Instituto Nacional de Antropologia e Historia
+Downloaded: Mon Aug 25 21:29:34 PDT 2025
+
+Files Downloaded: 3/3
+- 170_171215_static.pdf (Static PDF version)
+- 170_171215_document.doc (Word document)
+- Ley_Organica_del_Instituto_Nacional_de_Antropologia_e_Historia_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

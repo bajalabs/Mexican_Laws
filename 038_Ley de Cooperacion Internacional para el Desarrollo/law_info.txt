@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCID_061120
+Name: Ley_de_Cooperacion_Internacional_para_el_Desarrollo
+Folder: 038_Ley de Cooperacion Internacional para el Desarrollo
+Downloaded: Mon Aug 25 21:24:04 PDT 2025
+
+Files Downloaded: 3/3
+- LCID_061120_static.pdf (Static PDF version)
+- LCID_061120_document.doc (Word document)
+- Ley_de_Cooperacion_Internacional_para_el_Desarrollo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

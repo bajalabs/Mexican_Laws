@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LMin
+Name: Ley_de_Mineria
+Folder: 081_Ley de Mineria
+Downloaded: Mon Aug 25 21:25:08 PDT 2025
+
+Files Downloaded: 3/3
+- LMin_static.pdf (Static PDF version)
+- LMin_document.doc (Word document)
+- Ley_de_Mineria_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

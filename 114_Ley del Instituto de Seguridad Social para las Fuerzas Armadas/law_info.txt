@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 84_070519
+Name: Ley_del_Instituto_de_Seguridad_Social_para_las_Fuerzas_Armadas
+Folder: 114_Ley del Instituto de Seguridad Social para las Fuerzas Armadas
+Downloaded: Mon Aug 25 21:25:53 PDT 2025
+
+Files Downloaded: 3/3
+- 84_070519_static.pdf (Static PDF version)
+- 84_070519_document.doc (Word document)
+- Ley_del_Instituto_de_Seguridad_Social_para_las_Fuerzas_Armadas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

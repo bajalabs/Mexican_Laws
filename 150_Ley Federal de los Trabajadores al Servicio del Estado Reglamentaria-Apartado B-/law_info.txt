@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFTSE
+Name: Ley_Federal_de_los_Trabajadores_al_Servicio_del_Estado_Reglamentaria-Apartado_B-Articulo_123
+Folder: 150_Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria-Apartado B-
+Downloaded: Mon Aug 25 21:26:45 PDT 2025
+
+Files Downloaded: 3/3
+- LFTSE_static.pdf (Static PDF version)
+- LFTSE_document.doc (Word document)
+- Ley_Federal_de_los_Trabajadores_al_Servicio_del_Estado_Reglamentaria-Apartado_B-Articulo_123_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

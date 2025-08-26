@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFPPIPP_200521
+Name: Ley_Federal_para_la_Proteccion_a_Personas-Intervienen-Procedimiento_Penal
+Folder: 179_Ley Federal para la Proteccion a Personas-Intervienen-Procedimiento Penal
+Downloaded: Mon Aug 25 21:27:27 PDT 2025
+
+Files Downloaded: 3/3
+- LFPPIPP_200521_static.pdf (Static PDF version)
+- LFPPIPP_200521_document.doc (Word document)
+- Ley_Federal_para_la_Proteccion_a_Personas-Intervienen-Procedimiento_Penal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

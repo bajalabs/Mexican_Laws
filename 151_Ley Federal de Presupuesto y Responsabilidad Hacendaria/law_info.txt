@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFPRH
+Name: Ley_Federal_de_Presupuesto_y_Responsabilidad_Hacendaria
+Folder: 151_Ley Federal de Presupuesto y Responsabilidad Hacendaria
+Downloaded: Mon Aug 25 21:26:46 PDT 2025
+
+Files Downloaded: 3/3
+- LFPRH_static.pdf (Static PDF version)
+- LFPRH_document.doc (Word document)
+- Ley_Federal_de_Presupuesto_y_Responsabilidad_Hacendaria_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

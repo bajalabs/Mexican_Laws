@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFEA_200521
+Name: Ley_de_Firma_Electronica_Avanzada
+Folder: 050_Ley de Firma Electronica Avanzada
+Downloaded: Mon Aug 25 21:24:21 PDT 2025
+
+Files Downloaded: 3/3
+- LFEA_200521_static.pdf (Static PDF version)
+- LFEA_200521_document.doc (Word document)
+- Ley_de_Firma_Electronica_Avanzada_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

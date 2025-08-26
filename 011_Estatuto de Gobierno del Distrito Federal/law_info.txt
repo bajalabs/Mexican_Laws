@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 10_270614
+Name: Estatuto_de_Gobierno_del_Distrito_Federal
+Folder: 011_Estatuto de Gobierno del Distrito Federal
+Downloaded: Mon Aug 25 21:23:24 PDT 2025
+
+Files Downloaded: 3/3
+- 10_270614_static.pdf (Static PDF version)
+- 10_270614_document.doc (Word document)
+- Estatuto_de_Gobierno_del_Distrito_Federal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFPDPPP
+Name: Ley_Federal_de_Proteccion_de_Datos_Personales-Posesion-Particulares
+Folder: 157_Ley Federal de Proteccion de Datos Personales-Posesion-Particulares
+Downloaded: Mon Aug 25 21:26:55 PDT 2025
+
+Files Downloaded: 3/3
+- LFPDPPP_static.pdf (Static PDF version)
+- LFPDPPP_document.doc (Word document)
+- Ley_Federal_de_Proteccion_de_Datos_Personales-Posesion-Particulares_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

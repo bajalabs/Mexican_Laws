@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFAFE
+Name: Ley_Federal_de_Armas_de_Fuego_y_Explosivos
+Folder: 136_Ley Federal de Armas de Fuego y Explosivos
+Downloaded: Mon Aug 25 21:26:24 PDT 2025
+
+Files Downloaded: 3/3
+- LFAFE_static.pdf (Static PDF version)
+- LFAFE_document.doc (Word document)
+- Ley_Federal_de_Armas_de_Fuego_y_Explosivos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

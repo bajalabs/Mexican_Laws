@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGDLPI
+Name: Ley_General_de_Derechos_Linguisticos_de_los_Pueblos_Indigenas
+Folder: 193_Ley General de Derechos Linguisticos de los Pueblos Indigenas
+Downloaded: Mon Aug 25 21:27:47 PDT 2025
+
+Files Downloaded: 3/3
+- LGDLPI_static.pdf (Static PDF version)
+- LGDLPI_document.doc (Word document)
+- Ley_General_de_Derechos_Linguisticos_de_los_Pueblos_Indigenas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

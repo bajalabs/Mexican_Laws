@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 207
+Name: Ley_Reglamentaria_del_Articulo_27-Materia_Nuclear
+Folder: 297_Ley Reglamentaria del Articulo 27-Materia Nuclear
+Downloaded: Mon Aug 25 21:30:22 PDT 2025
+
+Files Downloaded: 3/3
+- 207_static.pdf (Static PDF version)
+- 207_document.doc (Word document)
+- Ley_Reglamentaria_del_Articulo_27-Materia_Nuclear_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

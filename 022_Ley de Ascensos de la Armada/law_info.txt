@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 21
+Name: Ley_de_Ascensos_de_la_Armada
+Folder: 022_Ley de Ascensos de la Armada
+Downloaded: Mon Aug 25 21:23:41 PDT 2025
+
+Files Downloaded: 3/3
+- 21_static.pdf (Static PDF version)
+- 21_document.doc (Word document)
+- Ley_de_Ascensos_de_la_Armada_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

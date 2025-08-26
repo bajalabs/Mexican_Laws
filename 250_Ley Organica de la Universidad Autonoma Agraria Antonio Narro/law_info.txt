@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOUAAAN
+Name: Ley_Organica_de_la_Universidad_Autonoma_Agraria_Antonio_Narro
+Folder: 250_Ley Organica de la Universidad Autonoma Agraria Antonio Narro
+Downloaded: Mon Aug 25 21:29:15 PDT 2025
+
+Files Downloaded: 3/3
+- LOUAAAN_static.pdf (Static PDF version)
+- LOUAAAN_document.doc (Word document)
+- Ley_Organica_de_la_Universidad_Autonoma_Agraria_Antonio_Narro_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

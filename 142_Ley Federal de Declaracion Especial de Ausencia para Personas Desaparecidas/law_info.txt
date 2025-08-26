@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFDEAPD
+Name: Ley_Federal_de_Declaracion_Especial_de_Ausencia_para_Personas_Desaparecidas
+Folder: 142_Ley Federal de Declaracion Especial de Ausencia para Personas Desaparecidas
+Downloaded: Mon Aug 25 21:26:33 PDT 2025
+
+Files Downloaded: 3/3
+- LFDEAPD_static.pdf (Static PDF version)
+- LFDEAPD_document.doc (Word document)
+- Ley_Federal_de_Declaracion_Especial_de_Ausencia_para_Personas_Desaparecidas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

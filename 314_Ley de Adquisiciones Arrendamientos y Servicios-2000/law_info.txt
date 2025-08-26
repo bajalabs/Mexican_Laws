@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAASSP_2000
+Name: Ley_de_Adquisiciones_Arrendamientos_y_Servicios-2000
+Folder: 314_Ley de Adquisiciones Arrendamientos y Servicios-2000
+Downloaded: Mon Aug 25 21:30:50 PDT 2025
+
+Files Downloaded: 3/3
+- LAASSP_2000_static.pdf (Static PDF version)
+- LAASSP_2000_document.doc (Word document)
+- Ley_de_Adquisiciones_Arrendamientos_y_Servicios-2000_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

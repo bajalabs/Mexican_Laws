@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFMPED
+Name: Ley_del_Fondo_Mexicano_del_Petroleo_para_la_Estabilizacion_y_el_Desarrollo
+Folder: 110_Ley del Fondo Mexicano del Petroleo para la Estabilizacion y el Desarrollo
+Downloaded: Mon Aug 25 21:25:46 PDT 2025
+
+Files Downloaded: 3/3
+- LFMPED_static.pdf (Static PDF version)
+- LFMPED_document.doc (Word document)
+- Ley_del_Fondo_Mexicano_del_Petroleo_para_la_Estabilizacion_y_el_Desarrollo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

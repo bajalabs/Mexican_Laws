@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGMDFP
+Name: Ley_General_en_Materia_de_Desaparicion_Forzada_de_Personas-Particulares-Sistema_Nacional_de_Busqueda
+Folder: 226_Ley General en Materia de Desaparicion Forzada de Personas-Particulares-Sistema 
+Downloaded: Mon Aug 25 21:28:40 PDT 2025
+
+Files Downloaded: 3/3
+- LGMDFP_static.pdf (Static PDF version)
+- LGMDFP_document.doc (Word document)
+- Ley_General_en_Materia_de_Desaparicion_Forzada_de_Personas-Particulares-Sistema_Nacional_de_Busqueda_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

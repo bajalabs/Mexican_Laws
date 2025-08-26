@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LNEP
+Name: Ley_Nacional_de_Ejecucion_Penal
+Folder: 239_Ley Nacional de Ejecucion Penal
+Downloaded: Mon Aug 25 21:28:58 PDT 2025
+
+Files Downloaded: 3/3
+- LNEP_static.pdf (Static PDF version)
+- LNEP_document.doc (Word document)
+- Ley_Nacional_de_Ejecucion_Penal_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

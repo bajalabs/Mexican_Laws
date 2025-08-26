@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 74
+Name: Ley_del_Banco_de_Mexico
+Folder: 108_Ley del Banco de Mexico
+Downloaded: Mon Aug 25 21:25:44 PDT 2025
+
+Files Downloaded: 3/3
+- 74_static.pdf (Static PDF version)
+- 74_document.doc (Word document)
+- Ley_del_Banco_de_Mexico_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

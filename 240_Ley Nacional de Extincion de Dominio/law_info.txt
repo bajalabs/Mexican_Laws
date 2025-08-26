@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LNED
+Name: Ley_Nacional_de_Extincion_de_Dominio
+Folder: 240_Ley Nacional de Extincion de Dominio
+Downloaded: Mon Aug 25 21:29:00 PDT 2025
+
+Files Downloaded: 3/3
+- LNED_static.pdf (Static PDF version)
+- LNED_document.doc (Word document)
+- Ley_Nacional_de_Extincion_de_Dominio_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

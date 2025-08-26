@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LDCMPME
+Name: Ley_para_el_Desarrollo_de_la_Competitividad_de_la_Micro_Pequena_y_Mediana_Empresa
+Folder: 270_Ley para el Desarrollo de la Competitividad de la Micro Pequena y Mediana Empres
+Downloaded: Mon Aug 25 21:29:45 PDT 2025
+
+Files Downloaded: 3/3
+- LDCMPME_static.pdf (Static PDF version)
+- LDCMPME_document.doc (Word document)
+- Ley_para_el_Desarrollo_de_la_Competitividad_de_la_Micro_Pequena_y_Mediana_Empresa_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGA
+Name: Ley_General_de_Archivos
+Folder: 184_Ley General de Archivos
+Downloaded: Mon Aug 25 21:27:34 PDT 2025
+
+Files Downloaded: 3/3
+- LGA_static.pdf (Static PDF version)
+- LGA_document.doc (Word document)
+- Ley_General_de_Archivos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

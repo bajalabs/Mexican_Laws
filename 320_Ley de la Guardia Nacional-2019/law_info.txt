@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGN_2019
+Name: Ley_de_la_Guardia_Nacional-2019
+Folder: 320_Ley de la Guardia Nacional-2019
+Downloaded: Mon Aug 25 21:30:59 PDT 2025
+
+Files Downloaded: 3/3
+- LGN_2019_static.pdf (Static PDF version)
+- LGN_2019_document.doc (Word document)
+- Ley_de_la_Guardia_Nacional-2019_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

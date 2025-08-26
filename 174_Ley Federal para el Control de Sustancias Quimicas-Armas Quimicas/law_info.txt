@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFCSQ
+Name: Ley_Federal_para_el_Control_de_Sustancias_Quimicas-Armas_Quimicas
+Folder: 174_Ley Federal para el Control de Sustancias Quimicas-Armas Quimicas
+Downloaded: Mon Aug 25 21:27:20 PDT 2025
+
+Files Downloaded: 3/3
+- LFCSQ_static.pdf (Static PDF version)
+- LFCSQ_document.doc (Word document)
+- Ley_Federal_para_el_Control_de_Sustancias_Quimicas-Armas_Quimicas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

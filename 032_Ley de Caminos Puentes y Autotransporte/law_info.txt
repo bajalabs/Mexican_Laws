@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCPAF
+Name: Ley_de_Caminos_Puentes_y_Autotransporte
+Folder: 032_Ley de Caminos Puentes y Autotransporte
+Downloaded: Mon Aug 25 21:23:56 PDT 2025
+
+Files Downloaded: 3/3
+- LCPAF_static.pdf (Static PDF version)
+- LCPAF_document.doc (Word document)
+- Ley_de_Caminos_Puentes_y_Autotransporte_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

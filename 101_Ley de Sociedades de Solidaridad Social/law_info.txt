@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 71_240418
+Name: Ley_de_Sociedades_de_Solidaridad_Social
+Folder: 101_Ley de Sociedades de Solidaridad Social
+Downloaded: Mon Aug 25 21:25:34 PDT 2025
+
+Files Downloaded: 3/3
+- 71_240418_static.pdf (Static PDF version)
+- 71_240418_document.doc (Word document)
+- Ley_de_Sociedades_de_Solidaridad_Social_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

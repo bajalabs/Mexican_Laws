@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 105
+Name: Ley_Federal_de_Correduria_Publica
+Folder: 141_Ley Federal de Correduria Publica
+Downloaded: Mon Aug 25 21:26:31 PDT 2025
+
+Files Downloaded: 3/3
+- 105_static.pdf (Static PDF version)
+- 105_document.doc (Word document)
+- Ley_Federal_de_Correduria_Publica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

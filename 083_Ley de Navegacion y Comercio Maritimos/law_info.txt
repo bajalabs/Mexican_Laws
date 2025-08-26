@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LNCM_071220
+Name: Ley_de_Navegacion_y_Comercio_Maritimos
+Folder: 083_Ley de Navegacion y Comercio Maritimos
+Downloaded: Mon Aug 25 21:25:11 PDT 2025
+
+Files Downloaded: 3/3
+- LNCM_071220_static.pdf (Static PDF version)
+- LNCM_071220_document.doc (Word document)
+- Ley_de_Navegacion_y_Comercio_Maritimos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

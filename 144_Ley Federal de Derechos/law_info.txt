@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFD
+Name: Ley_Federal_de_Derechos
+Folder: 144_Ley Federal de Derechos
+Downloaded: Mon Aug 25 21:26:36 PDT 2025
+
+Files Downloaded: 3/3
+- LFD_static.pdf (Static PDF version)
+- LFD_document.doc (Word document)
+- Ley_Federal_de_Derechos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

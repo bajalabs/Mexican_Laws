@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LNETB
+Name: Ley_Nacional_para_Eliminar_Tramites_Burocraticos
+Folder: 244_Ley Nacional para Eliminar Tramites Burocraticos
+Downloaded: Mon Aug 25 21:29:06 PDT 2025
+
+Files Downloaded: 3/3
+- LNETB_static.pdf (Static PDF version)
+- LNETB_document.doc (Word document)
+- Ley_Nacional_para_Eliminar_Tramites_Burocraticos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

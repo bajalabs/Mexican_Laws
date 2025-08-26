@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGBN
+Name: Ley_General_de_Bienes_Nacionales
+Folder: 187_Ley General de Bienes Nacionales
+Downloaded: Mon Aug 25 21:27:39 PDT 2025
+
+Files Downloaded: 3/3
+- LGBN_static.pdf (Static PDF version)
+- LGBN_document.doc (Word document)
+- Ley_General_de_Bienes_Nacionales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

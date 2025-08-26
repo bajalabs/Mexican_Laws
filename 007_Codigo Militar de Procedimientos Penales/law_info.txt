@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: CMPP
+Name: Codigo_Militar_de_Procedimientos_Penales
+Folder: 007_Codigo Militar de Procedimientos Penales
+Downloaded: Mon Aug 25 21:23:16 PDT 2025
+
+Files Downloaded: 3/3
+- CMPP_static.pdf (Static PDF version)
+- CMPP_document.doc (Word document)
+- Codigo_Militar_de_Procedimientos_Penales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

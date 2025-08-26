@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: CPEUM
+Name: Constitucion_Politica
+Folder: 001_Constitucion Politica
+Downloaded: Mon Aug 25 21:23:05 PDT 2025
+
+Files Downloaded: 3/3
+- CPEUM_static.pdf (Static PDF version)
+- CPEUM_document.doc (Word document)
+- Constitucion_Politica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

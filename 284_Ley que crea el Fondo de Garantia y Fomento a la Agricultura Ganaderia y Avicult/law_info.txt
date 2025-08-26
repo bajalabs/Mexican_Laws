@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 192
+Name: Ley_que_crea_el_Fondo_de_Garantia_y_Fomento_a_la_Agricultura_Ganaderia_y_Avicultura
+Folder: 284_Ley que crea el Fondo de Garantia y Fomento a la Agricultura Ganaderia y Avicult
+Downloaded: Mon Aug 25 21:30:05 PDT 2025
+
+Files Downloaded: 3/3
+- 192_static.pdf (Static PDF version)
+- 192_document.doc (Word document)
+- Ley_que_crea_el_Fondo_de_Garantia_y_Fomento_a_la_Agricultura_Ganaderia_y_Avicultura_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

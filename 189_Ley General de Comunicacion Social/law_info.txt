@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGCS
+Name: Ley_General_de_Comunicacion_Social
+Folder: 189_Ley General de Comunicacion Social
+Downloaded: Mon Aug 25 21:27:42 PDT 2025
+
+Files Downloaded: 3/3
+- LGCS_static.pdf (Static PDF version)
+- LGCS_document.doc (Word document)
+- Ley_General_de_Comunicacion_Social_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

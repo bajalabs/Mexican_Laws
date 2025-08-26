@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 93_041218
+Name: Ley_del_Servicio_de_Administracion_Tributaria
+Folder: 126_Ley del Servicio de Administracion Tributaria
+Downloaded: Mon Aug 25 21:26:10 PDT 2025
+
+Files Downloaded: 3/3
+- 93_041218_static.pdf (Static PDF version)
+- 93_041218_document.doc (Word document)
+- Ley_del_Servicio_de_Administracion_Tributaria_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

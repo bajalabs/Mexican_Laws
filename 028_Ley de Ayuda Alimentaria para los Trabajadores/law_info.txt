@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAAT
+Name: Ley_de_Ayuda_Alimentaria_para_los_Trabajadores
+Folder: 028_Ley de Ayuda Alimentaria para los Trabajadores
+Downloaded: Mon Aug 25 21:23:50 PDT 2025
+
+Files Downloaded: 3/3
+- LAAT_static.pdf (Static PDF version)
+- LAAT_document.doc (Word document)
+- Ley_de_Ayuda_Alimentaria_para_los_Trabajadores_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

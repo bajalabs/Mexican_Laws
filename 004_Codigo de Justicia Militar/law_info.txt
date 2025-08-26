@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: CJM
+Name: Codigo_de_Justicia_Militar
+Folder: 004_Codigo de Justicia Militar
+Downloaded: Mon Aug 25 21:23:11 PDT 2025
+
+Files Downloaded: 3/3
+- CJM_static.pdf (Static PDF version)
+- CJM_document.doc (Word document)
+- Codigo_de_Justicia_Militar_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

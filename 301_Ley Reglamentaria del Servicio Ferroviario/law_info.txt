@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LRSF
+Name: Ley_Reglamentaria_del_Servicio_Ferroviario
+Folder: 301_Ley Reglamentaria del Servicio Ferroviario
+Downloaded: Mon Aug 25 21:30:28 PDT 2025
+
+Files Downloaded: 3/3
+- LRSF_static.pdf (Static PDF version)
+- LRSF_document.doc (Word document)
+- Ley_Reglamentaria_del_Servicio_Ferroviario_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

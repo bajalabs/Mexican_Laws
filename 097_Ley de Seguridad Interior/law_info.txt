@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LSInt_300519
+Name: Ley_de_Seguridad_Interior
+Folder: 097_Ley de Seguridad Interior
+Downloaded: Mon Aug 25 21:25:29 PDT 2025
+
+Files Downloaded: 3/3
+- LSInt_300519_static.pdf (Static PDF version)
+- LSInt_300519_document.doc (Word document)
+- Ley_de_Seguridad_Interior_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

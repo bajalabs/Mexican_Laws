@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGSCMM_300919
+Name: Ley_General_del_Sistema_para_la_Carrera_de_las_Maestras_y_los_Maestros
+Folder: 224_Ley General del Sistema para la Carrera de las Maestras y los Maestros
+Downloaded: Mon Aug 25 21:28:37 PDT 2025
+
+Files Downloaded: 3/3
+- LGSCMM_300919_static.pdf (Static PDF version)
+- LGSCMM_300919_document.doc (Word document)
+- Ley_General_del_Sistema_para_la_Carrera_de_las_Maestras_y_los_Maestros_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

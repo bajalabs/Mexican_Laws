@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGDFS
+Name: Ley_General_de_Desarrollo_Forestal_Sustentable
+Folder: 194_Ley General de Desarrollo Forestal Sustentable
+Downloaded: Mon Aug 25 21:27:49 PDT 2025
+
+Files Downloaded: 3/3
+- LGDFS_static.pdf (Static PDF version)
+- LGDFS_document.doc (Word document)
+- Ley_General_de_Desarrollo_Forestal_Sustentable_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

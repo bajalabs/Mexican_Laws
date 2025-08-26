@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIH
+Name: Ley_de_Ingresos_sobre_Hidrocarburos
+Folder: 060_Ley de Ingresos sobre Hidrocarburos
+Downloaded: Mon Aug 25 21:24:34 PDT 2025
+
+Files Downloaded: 3/3
+- LIH_static.pdf (Static PDF version)
+- LIH_document.doc (Word document)
+- Ley_de_Ingresos_sobre_Hidrocarburos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

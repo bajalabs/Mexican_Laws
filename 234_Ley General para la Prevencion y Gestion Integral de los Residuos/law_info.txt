@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGPGIR
+Name: Ley_General_para_la_Prevencion_y_Gestion_Integral_de_los_Residuos
+Folder: 234_Ley General para la Prevencion y Gestion Integral de los Residuos
+Downloaded: Mon Aug 25 21:28:51 PDT 2025
+
+Files Downloaded: 3/3
+- LGPGIR_static.pdf (Static PDF version)
+- LGPGIR_document.doc (Word document)
+- Ley_General_para_la_Prevencion_y_Gestion_Integral_de_los_Residuos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LESS
+Name: Ley_de_la_Economia_Social_y_Solidaria
+Folder: 069_Ley de la Economia Social y Solidaria
+Downloaded: Mon Aug 25 21:24:48 PDT 2025
+
+Files Downloaded: 3/3
+- LESS_static.pdf (Static PDF version)
+- LESS_document.doc (Word document)
+- Ley_de_la_Economia_Social_y_Solidaria_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 159
+Name: Ley_Organica_de_los_Tribunales_Agrarios
+Folder: 253_Ley Organica de los Tribunales Agrarios
+Downloaded: Mon Aug 25 21:29:19 PDT 2025
+
+Files Downloaded: 3/3
+- 159_static.pdf (Static PDF version)
+- 159_document.doc (Word document)
+- Ley_Organica_de_los_Tribunales_Agrarios_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

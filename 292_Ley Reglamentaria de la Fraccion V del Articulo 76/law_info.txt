@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 202
+Name: Ley_Reglamentaria_de_la_Fraccion_V_del_Articulo_76
+Folder: 292_Ley Reglamentaria de la Fraccion V del Articulo 76
+Downloaded: Mon Aug 25 21:30:15 PDT 2025
+
+Files Downloaded: 3/3
+- 202_static.pdf (Static PDF version)
+- 202_document.doc (Word document)
+- Ley_Reglamentaria_de_la_Fraccion_V_del_Articulo_76_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

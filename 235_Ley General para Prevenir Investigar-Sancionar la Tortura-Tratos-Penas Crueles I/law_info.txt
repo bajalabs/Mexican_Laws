@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGPIST
+Name: Ley_General_para_Prevenir_Investigar-Sancionar_la_Tortura-Tratos-Penas_Crueles_Inhumanos-Degradantes
+Folder: 235_Ley General para Prevenir Investigar-Sancionar la Tortura-Tratos-Penas Crueles I
+Downloaded: Mon Aug 25 21:28:52 PDT 2025
+
+Files Downloaded: 3/3
+- LGPIST_static.pdf (Static PDF version)
+- LGPIST_document.doc (Word document)
+- Ley_General_para_Prevenir_Investigar-Sancionar_la_Tortura-Tratos-Penas_Crueles_Inhumanos-Degradantes_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

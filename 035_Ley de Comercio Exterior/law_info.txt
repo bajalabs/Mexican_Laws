@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 28
+Name: Ley_de_Comercio_Exterior
+Folder: 035_Ley de Comercio Exterior
+Downloaded: Mon Aug 25 21:24:00 PDT 2025
+
+Files Downloaded: 3/3
+- 28_static.pdf (Static PDF version)
+- 28_document.doc (Word document)
+- Ley_de_Comercio_Exterior_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

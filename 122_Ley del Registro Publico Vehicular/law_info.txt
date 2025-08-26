@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 269_200521
+Name: Ley_del_Registro_Publico_Vehicular
+Folder: 122_Ley del Registro Publico Vehicular
+Downloaded: Mon Aug 25 21:26:04 PDT 2025
+
+Files Downloaded: 3/3
+- 269_200521_static.pdf (Static PDF version)
+- 269_200521_document.doc (Word document)
+- Ley_del_Registro_Publico_Vehicular_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

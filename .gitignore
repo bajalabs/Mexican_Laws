@@ -1,0 +1,29 @@
+# Logs and temporary files
+*.log
+*.tmp
+nohup.out
+conversion_log*.txt
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary conversion files (uncomment if you want to exclude)
+# *.docx
+# *.md

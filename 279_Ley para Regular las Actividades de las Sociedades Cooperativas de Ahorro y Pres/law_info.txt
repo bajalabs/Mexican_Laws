@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LRASCAP
+Name: Ley_para_Regular_las_Actividades_de_las_Sociedades_Cooperativas_de_Ahorro_y_Prestamo
+Folder: 279_Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Pres
+Downloaded: Mon Aug 25 21:29:57 PDT 2025
+
+Files Downloaded: 3/3
+- LRASCAP_static.pdf (Static PDF version)
+- LRASCAP_document.doc (Word document)
+- Ley_para_Regular_las_Actividades_de_las_Sociedades_Cooperativas_de_Ahorro_y_Prestamo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

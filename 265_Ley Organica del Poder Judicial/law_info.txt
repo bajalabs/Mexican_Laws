@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOPJF
+Name: Ley_Organica_del_Poder_Judicial
+Folder: 265_Ley Organica del Poder Judicial
+Downloaded: Mon Aug 25 21:29:38 PDT 2025
+
+Files Downloaded: 3/3
+- LOPJF_static.pdf (Static PDF version)
+- LOPJF_document.doc (Word document)
+- Ley_Organica_del_Poder_Judicial_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

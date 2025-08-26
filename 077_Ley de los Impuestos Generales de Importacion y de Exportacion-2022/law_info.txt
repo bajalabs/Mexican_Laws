@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LIGIE_2022
+Name: Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion-2022
+Folder: 077_Ley de los Impuestos Generales de Importacion y de Exportacion-2022
+Downloaded: Mon Aug 25 21:25:02 PDT 2025
+
+Files Downloaded: 3/3
+- LIGIE_2022_static.pdf (Static PDF version)
+- LIGIE_2022_document.doc (Word document)
+- Ley_de_los_Impuestos_Generales_de_Importacion_y_de_Exportacion-2022_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

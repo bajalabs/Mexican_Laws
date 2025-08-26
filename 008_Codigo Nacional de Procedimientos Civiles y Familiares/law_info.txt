@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: CNPCF
+Name: Codigo_Nacional_de_Procedimientos_Civiles_y_Familiares
+Folder: 008_Codigo Nacional de Procedimientos Civiles y Familiares
+Downloaded: Mon Aug 25 21:23:18 PDT 2025
+
+Files Downloaded: 3/3
+- CNPCF_static.pdf (Static PDF version)
+- CNPCF_document.doc (Word document)
+- Codigo_Nacional_de_Procedimientos_Civiles_y_Familiares_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

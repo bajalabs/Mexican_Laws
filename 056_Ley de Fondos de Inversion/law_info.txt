@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFI
+Name: Ley_de_Fondos_de_Inversion
+Folder: 056_Ley de Fondos de Inversion
+Downloaded: Mon Aug 25 21:24:29 PDT 2025
+
+Files Downloaded: 3/3
+- LFI_static.pdf (Static PDF version)
+- LFI_document.doc (Word document)
+- Ley_de_Fondos_de_Inversion_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

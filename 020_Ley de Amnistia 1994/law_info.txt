@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 19
+Name: Ley_de_Amnistia_1994
+Folder: 020_Ley de Amnistia 1994
+Downloaded: Mon Aug 25 21:23:38 PDT 2025
+
+Files Downloaded: 3/3
+- 19_static.pdf (Static PDF version)
+- 19_document.doc (Word document)
+- Ley_de_Amnistia_1994_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

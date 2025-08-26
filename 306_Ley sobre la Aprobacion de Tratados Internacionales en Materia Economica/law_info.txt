@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 271
+Name: Ley_sobre_la_Aprobacion_de_Tratados_Internacionales_en_Materia_Economica
+Folder: 306_Ley sobre la Aprobacion de Tratados Internacionales en Materia Economica
+Downloaded: Mon Aug 25 21:30:35 PDT 2025
+
+Files Downloaded: 3/3
+- 271_static.pdf (Static PDF version)
+- 271_document.doc (Word document)
+- Ley_sobre_la_Aprobacion_de_Tratados_Internacionales_en_Materia_Economica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

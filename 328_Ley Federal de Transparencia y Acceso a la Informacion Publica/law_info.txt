@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFTAIP
+Name: Ley_Federal_de_Transparencia_y_Acceso_a_la_Informacion_Publica
+Folder: 328_Ley Federal de Transparencia y Acceso a la Informacion Publica
+Downloaded: Mon Aug 25 21:31:12 PDT 2025
+
+Files Downloaded: 3/3
+- LFTAIP_static.pdf (Static PDF version)
+- LFTAIP_document.doc (Word document)
+- Ley_Federal_de_Transparencia_y_Acceso_a_la_Informacion_Publica_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

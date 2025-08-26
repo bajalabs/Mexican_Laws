@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFZEE
+Name: Ley_Federal_de_Zonas_Economicas_Especiales
+Folder: 168_Ley Federal de Zonas Economicas Especiales
+Downloaded: Mon Aug 25 21:27:11 PDT 2025
+
+Files Downloaded: 3/3
+- LFZEE_static.pdf (Static PDF version)
+- LFZEE_document.doc (Word document)
+- Ley_Federal_de_Zonas_Economicas_Especiales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGOAAC
+Name: Ley_General_de_Organizaciones_y_Actividades_Auxiliares_del_Credito
+Folder: 204_Ley General de Organizaciones y Actividades Auxiliares del Credito
+Downloaded: Mon Aug 25 21:28:06 PDT 2025
+
+Files Downloaded: 3/3
+- LGOAAC_static.pdf (Static PDF version)
+- LGOAAC_document.doc (Word document)
+- Ley_General_de_Organizaciones_y_Actividades_Auxiliares_del_Credito_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

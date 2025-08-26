@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 67
+Name: Ley_de_Responsabilidad_Civil_por_Danos_Nucleares
+Folder: 096_Ley de Responsabilidad Civil por Danos Nucleares
+Downloaded: Mon Aug 25 21:25:28 PDT 2025
+
+Files Downloaded: 3/3
+- 67_static.pdf (Static PDF version)
+- 67_document.doc (Word document)
+- Ley_de_Responsabilidad_Civil_por_Danos_Nucleares_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

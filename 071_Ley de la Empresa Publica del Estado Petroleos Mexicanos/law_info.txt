@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LEPEPM
+Name: Ley_de_la_Empresa_Publica_del_Estado_Petroleos_Mexicanos
+Folder: 071_Ley de la Empresa Publica del Estado Petroleos Mexicanos
+Downloaded: Mon Aug 25 21:24:51 PDT 2025
+
+Files Downloaded: 3/3
+- LEPEPM_static.pdf (Static PDF version)
+- LEPEPM_document.doc (Word document)
+- Ley_de_la_Empresa_Publica_del_Estado_Petroleos_Mexicanos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

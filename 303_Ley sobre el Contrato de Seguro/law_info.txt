@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 211
+Name: Ley_sobre_el_Contrato_de_Seguro
+Folder: 303_Ley sobre el Contrato de Seguro
+Downloaded: Mon Aug 25 21:30:31 PDT 2025
+
+Files Downloaded: 3/3
+- 211_static.pdf (Static PDF version)
+- 211_document.doc (Word document)
+- Ley_sobre_el_Contrato_de_Seguro_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

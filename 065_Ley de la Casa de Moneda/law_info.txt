@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCMM
+Name: Ley_de_la_Casa_de_Moneda
+Folder: 065_Ley de la Casa de Moneda
+Downloaded: Mon Aug 25 21:24:43 PDT 2025
+
+Files Downloaded: 3/3
+- LCMM_static.pdf (Static PDF version)
+- LCMM_document.doc (Word document)
+- Ley_de_la_Casa_de_Moneda_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

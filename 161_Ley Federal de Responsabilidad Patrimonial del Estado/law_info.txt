@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFRPE
+Name: Ley_Federal_de_Responsabilidad_Patrimonial_del_Estado
+Folder: 161_Ley Federal de Responsabilidad Patrimonial del Estado
+Downloaded: Mon Aug 25 21:27:01 PDT 2025
+
+Files Downloaded: 3/3
+- LFRPE_static.pdf (Static PDF version)
+- LFRPE_document.doc (Word document)
+- Ley_Federal_de_Responsabilidad_Patrimonial_del_Estado_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

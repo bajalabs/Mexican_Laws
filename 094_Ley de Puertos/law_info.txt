@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 65_071220
+Name: Ley_de_Puertos
+Folder: 094_Ley de Puertos
+Downloaded: Mon Aug 25 21:25:25 PDT 2025
+
+Files Downloaded: 3/3
+- 65_071220_static.pdf (Static PDF version)
+- 65_071220_document.doc (Word document)
+- Ley_de_Puertos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

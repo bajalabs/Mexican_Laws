@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGPSACDII
+Name: Ley_General_de_Prestacion_de_Servicios_para_la_Atencion_Cuidado-Desarrollo_Integral_Infantil
+Folder: 208_Ley General de Prestacion de Servicios para la Atencion Cuidado-Desarrollo Integ
+Downloaded: Mon Aug 25 21:28:12 PDT 2025
+
+Files Downloaded: 3/3
+- LGPSACDII_static.pdf (Static PDF version)
+- LGPSACDII_document.doc (Word document)
+- Ley_General_de_Prestacion_de_Servicios_para_la_Atencion_Cuidado-Desarrollo_Integral_Infantil_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

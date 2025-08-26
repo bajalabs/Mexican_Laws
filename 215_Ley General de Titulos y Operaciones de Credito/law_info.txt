@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGTOC
+Name: Ley_General_de_Titulos_y_Operaciones_de_Credito
+Folder: 215_Ley General de Titulos y Operaciones de Credito
+Downloaded: Mon Aug 25 21:28:22 PDT 2025
+
+Files Downloaded: 3/3
+- LGTOC_static.pdf (Static PDF version)
+- LGTOC_document.doc (Word document)
+- Ley_General_de_Titulos_y_Operaciones_de_Credito_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

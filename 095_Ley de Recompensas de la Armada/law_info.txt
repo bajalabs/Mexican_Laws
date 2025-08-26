@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LRAM
+Name: Ley_de_Recompensas_de_la_Armada
+Folder: 095_Ley de Recompensas de la Armada
+Downloaded: Mon Aug 25 21:25:27 PDT 2025
+
+Files Downloaded: 3/3
+- LRAM_static.pdf (Static PDF version)
+- LRAM_document.doc (Word document)
+- Ley_de_Recompensas_de_la_Armada_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

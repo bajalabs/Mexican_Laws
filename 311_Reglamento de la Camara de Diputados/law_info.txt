@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: Reg_Diputados
+Name: Reglamento_de_la_Camara_de_Diputados
+Folder: 311_Reglamento de la Camara de Diputados
+Downloaded: Mon Aug 25 21:30:45 PDT 2025
+
+Files Downloaded: 3/3
+- Reg_Diputados_static.pdf (Static PDF version)
+- Reg_Diputados_document.doc (Word document)
+- Reglamento_de_la_Camara_de_Diputados_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

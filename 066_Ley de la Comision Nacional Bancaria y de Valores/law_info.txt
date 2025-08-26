@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LCNBV
+Name: Ley_de_la_Comision_Nacional_Bancaria_y_de_Valores
+Folder: 066_Ley de la Comision Nacional Bancaria y de Valores
+Downloaded: Mon Aug 25 21:24:44 PDT 2025
+
+Files Downloaded: 3/3
+- LCNBV_static.pdf (Static PDF version)
+- LCNBV_document.doc (Word document)
+- Ley_de_la_Comision_Nacional_Bancaria_y_de_Valores_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

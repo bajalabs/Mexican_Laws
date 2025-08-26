@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGV
+Name: Ley_General_de_Victimas
+Folder: 218_Ley General de Victimas
+Downloaded: Mon Aug 25 21:28:27 PDT 2025
+
+Files Downloaded: 3/3
+- LGV_static.pdf (Static PDF version)
+- LGV_document.doc (Word document)
+- Ley_General_de_Victimas_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

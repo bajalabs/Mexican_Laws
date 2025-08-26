@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 131_160218
+Name: Ley_Federal_sobre_Monumentos_y_Zonas_Arqueologicos_Artisticos_e_Historicos
+Folder: 182_Ley Federal sobre Monumentos y Zonas Arqueologicos Artisticos e Historicos
+Downloaded: Mon Aug 25 21:27:31 PDT 2025
+
+Files Downloaded: 3/3
+- 131_160218_static.pdf (Static PDF version)
+- 131_160218_document.doc (Word document)
+- Ley_Federal_sobre_Monumentos_y_Zonas_Arqueologicos_Artisticos_e_Historicos_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

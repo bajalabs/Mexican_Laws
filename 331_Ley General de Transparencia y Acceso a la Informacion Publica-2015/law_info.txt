@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGTAIP_2015
+Name: Ley_General_de_Transparencia_y_Acceso_a_la_Informacion_Publica-2015
+Folder: 331_Ley General de Transparencia y Acceso a la Informacion Publica-2015
+Downloaded: Mon Aug 25 21:31:16 PDT 2025
+
+Files Downloaded: 3/3
+- LGTAIP_2015_static.pdf (Static PDF version)
+- LGTAIP_2015_document.doc (Word document)
+- Ley_General_de_Transparencia_y_Acceso_a_la_Informacion_Publica-2015_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFPCA
+Name: Ley_Federal_de_Procedimiento_Contencioso_Administrativo
+Folder: 153_Ley Federal de Procedimiento Contencioso Administrativo
+Downloaded: Mon Aug 25 21:26:49 PDT 2025
+
+Files Downloaded: 3/3
+- LFPCA_static.pdf (Static PDF version)
+- LFPCA_document.doc (Word document)
+- Ley_Federal_de_Procedimiento_Contencioso_Administrativo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

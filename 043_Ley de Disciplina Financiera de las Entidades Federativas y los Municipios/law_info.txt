@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LDFEFM
+Name: Ley_de_Disciplina_Financiera_de_las_Entidades_Federativas_y_los_Municipios
+Folder: 043_Ley de Disciplina Financiera de las Entidades Federativas y los Municipios
+Downloaded: Mon Aug 25 21:24:12 PDT 2025
+
+Files Downloaded: 3/3
+- LDFEFM_static.pdf (Static PDF version)
+- LDFEFM_document.doc (Word document)
+- Ley_de_Disciplina_Financiera_de_las_Entidades_Federativas_y_los_Municipios_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

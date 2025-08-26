@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFFPMN_130420
+Name: Ley_Federal_para_el_Fomento_y_Proteccion_del_Maiz_Nativo
+Folder: 176_Ley Federal para el Fomento y Proteccion del Maiz Nativo
+Downloaded: Mon Aug 25 21:27:23 PDT 2025
+
+Files Downloaded: 3/3
+- LFFPMN_130420_static.pdf (Static PDF version)
+- LFFPMN_130420_document.doc (Word document)
+- Ley_Federal_para_el_Fomento_y_Proteccion_del_Maiz_Nativo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LGSMIME
+Name: Ley_General_del_Sistema_de_Medios_de_Impugnacion-Materia_Electoral
+Folder: 221_Ley General del Sistema de Medios de Impugnacion-Materia Electoral
+Downloaded: Mon Aug 25 21:28:32 PDT 2025
+
+Files Downloaded: 3/3
+- LGSMIME_static.pdf (Static PDF version)
+- LGSMIME_document.doc (Word document)
+- Ley_General_del_Sistema_de_Medios_de_Impugnacion-Materia_Electoral_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

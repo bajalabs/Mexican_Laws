@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LPEAM
+Name: Ley_de_Proteccion_del_Espacio_Aereo_Mexicano
+Folder: 092_Ley de Proteccion del Espacio Aereo Mexicano
+Downloaded: Mon Aug 25 21:25:23 PDT 2025
+
+Files Downloaded: 3/3
+- LPEAM_static.pdf (Static PDF version)
+- LPEAM_document.doc (Word document)
+- Ley_de_Proteccion_del_Espacio_Aereo_Mexicano_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

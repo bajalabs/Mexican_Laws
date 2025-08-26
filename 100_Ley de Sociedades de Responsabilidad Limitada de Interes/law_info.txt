@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: 70
+Name: Ley_de_Sociedades_de_Responsabilidad_Limitada_de_Interes
+Folder: 100_Ley de Sociedades de Responsabilidad Limitada de Interes
+Downloaded: Mon Aug 25 21:25:33 PDT 2025
+
+Files Downloaded: 3/3
+- 70_static.pdf (Static PDF version)
+- 70_document.doc (Word document)
+- Ley_de_Sociedades_de_Responsabilidad_Limitada_de_Interes_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

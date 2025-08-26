@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LAN
+Name: Ley_de_Aguas_Nacionales
+Folder: 017_Ley de Aguas Nacionales
+Downloaded: Mon Aug 25 21:23:34 PDT 2025
+
+Files Downloaded: 3/3
+- LAN_static.pdf (Static PDF version)
+- LAN_document.doc (Word document)
+- Ley_de_Aguas_Nacionales_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

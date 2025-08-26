@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LFT
+Name: Ley_Federal_del_Trabajo
+Folder: 172_Ley Federal del Trabajo
+Downloaded: Mon Aug 25 21:27:17 PDT 2025
+
+Files Downloaded: 3/3
+- LFT_static.pdf (Static PDF version)
+- LFT_document.doc (Word document)
+- Ley_Federal_del_Trabajo_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/

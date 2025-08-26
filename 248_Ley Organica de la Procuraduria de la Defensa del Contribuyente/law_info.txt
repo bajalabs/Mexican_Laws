@@ -1,0 +1,13 @@
+Law Information
+===============
+Code: LOPDC
+Name: Ley_Organica_de_la_Procuraduria_de_la_Defensa_del_Contribuyente
+Folder: 248_Ley Organica de la Procuraduria de la Defensa del Contribuyente
+Downloaded: Mon Aug 25 21:29:12 PDT 2025
+
+Files Downloaded: 3/3
+- LOPDC_static.pdf (Static PDF version)
+- LOPDC_document.doc (Word document)
+- Ley_Organica_de_la_Procuraduria_de_la_Defensa_del_Contribuyente_mobile.pdf (Mobile PDF version)
+
+Source: https://www.diputados.gob.mx/LeyesBiblio/
