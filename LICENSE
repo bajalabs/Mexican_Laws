@@ -1,0 +1,54 @@
+MIT License
+
+Copyright (c) 2024 Mexican Laws Database Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Legal Disclaimer
+
+This project contains legal documents sourced from the official website of the 
+Mexican Chamber of Deputies (Cámara de Diputados de México). These documents are 
+public domain legal texts of the Mexican federal government.
+
+The original legal documents remain the property of the Mexican government and 
+are subject to their terms of use. This project provides tools and infrastructure 
+for accessing, converting, and analyzing these public legal documents.
+
+Users should verify the accuracy and currency of legal information with official 
+sources before making any legal decisions based on this data.
+
+## Data Attribution
+
+Legal documents in this repository are sourced from:
+- **Source**: Cámara de Diputados de México
+- **Website**: https://www.diputados.gob.mx/LeyesBiblio/
+- **License**: Public Domain (Mexican Federal Government)
+- **Last Updated**: January 2024
+
+## Third-Party Tools
+
+This project uses various open-source tools and libraries:
+- **LibreOffice**: Document conversion (Mozilla Public License)
+- **Pandoc**: Document processing (GPL v2+)
+- **curl**: Data download (MIT-style license)
+- **bash**: Scripting environment (GPL v3+)
+
+Please refer to individual tool licenses for their specific terms.

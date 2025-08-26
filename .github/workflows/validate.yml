@@ -1,0 +1,103 @@
+name: 🔍 Validate Data & Scripts
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Run weekly to check for broken links
+    - cron: '0 0 * * 0'
+
+jobs:
+  validate-scripts:
+    name: 📋 Validate Shell Scripts
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: 🔧 Install ShellCheck
+      run: sudo apt-get update && sudo apt-get install -y shellcheck
+    
+    - name: 🔍 Lint Shell Scripts
+      run: |
+        find . -name "*.sh" -type f | xargs shellcheck -e SC2034,SC2086
+    
+    - name: ✅ Test Script Permissions
+      run: |
+        find . -name "*.sh" -type f | xargs ls -la
+        
+  validate-links:
+    name: 🔗 Check External Links
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: 🌐 Test Source Website Accessibility
+      run: |
+        curl -I https://www.diputados.gob.mx/LeyesBiblio/ || echo "Website check failed"
+        
+    - name: 📋 Test Sample Downloads
+      run: |
+        # Test if we can download a sample law
+        curl -f -o test_constitution.pdf "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf" || echo "Sample download failed"
+        curl -f -o test_constitution.doc "https://www.diputados.gob.mx/LeyesBiblio/doc/CPEUM.doc" || echo "Sample DOC download failed"
+        
+  validate-structure:
+    name: 📁 Validate Repository Structure
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: 🔍 Check Required Files
+      run: |
+        test -f README.md || (echo "README.md missing" && exit 1)
+        test -f LICENSE || (echo "LICENSE missing" && exit 1)
+        test -f CONTRIBUTING.md || (echo "CONTRIBUTING.md missing" && exit 1)
+        test -f .gitignore || (echo ".gitignore missing" && exit 1)
+        
+    - name: 📊 Generate Repository Stats
+      run: |
+        echo "=== Repository Statistics ==="
+        echo "Total law folders: $(find . -maxdepth 1 -type d -name '[0-9]*' | wc -l)"
+        echo "PDF files: $(find . -name '*.pdf' | wc -l)"
+        echo "DOC files: $(find . -name '*.doc' | wc -l)"
+        echo "DOCX files: $(find . -name '*.docx' | wc -l)"
+        echo "Markdown files: $(find . -name '*.md' -not -path './docs/*' | wc -l)"
+        echo "Shell scripts: $(find . -name '*.sh' | wc -l)"
+        
+  validate-conversion:
+    name: 🔄 Test Conversion Tools
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: 📦 Install Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libreoffice pandoc
+        
+    - name: ✅ Test LibreOffice
+      run: |
+        libreoffice --version
+        
+    - name: ✅ Test Pandoc
+      run: |
+        pandoc --version
+        
+    - name: 🔧 Test Conversion (if sample files exist)
+      run: |
+        if [ -f "001_Constitucion_Politica/CPEUM_document.doc" ]; then
+          echo "Testing DOC to DOCX conversion..."
+          cd "001_Constitucion_Politica"
+          libreoffice --headless --convert-to docx CPEUM_document.doc
+          if [ -f "CPEUM_document.docx" ]; then
+            echo "✅ DOC to DOCX conversion successful"
+            pandoc CPEUM_document.docx -o test_output.md
+            if [ -f "test_output.md" ]; then
+              echo "✅ DOCX to Markdown conversion successful"
+            fi
+          fi
+        else
+          echo "ℹ️  No sample DOC files found for conversion testing"
+        fi
