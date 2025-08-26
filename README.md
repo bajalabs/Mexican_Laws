@@ -21,14 +21,21 @@
 
 > **"Knowledge belongs to humanity. Legal knowledge should be accessible, searchable, and understandable for everyone."**
 
-This project is building the **world's most comprehensive, open-source Mexican legal knowledge system** - transforming 334 federal laws into a modern, AI-ready legal database that serves researchers, developers, legal professionals, and citizens.
+**🎯 This is Phase 1 of the IuLex Open Knowledge Project** - a collaborative repository designed to be cloned, worked on, and contributed back to. We're building the foundation for future knowledge databases and graphs by creating the **world's most comprehensive, open-source Mexican legal knowledge system**.
 
-### 🎯 **Our Mission**
-- **Democratize Legal Knowledge**: Make Mexican laws accessible to everyone
-- **Enable Legal Innovation**: Provide structured data for legal tech development  
-- **Support Legal Research**: Create powerful tools for legal analysis
-- **Foster Transparency**: Promote open government and legal understanding
-- **Build Legal AI**: Enable next-generation legal AI applications
+**📋 How to Contribute**: Clone this repository, process legal documents using our automation tools, improve data quality, and submit pull requests. Every contribution moves us closer to complete legal knowledge democratization.
+
+### 🎯 **Our Mission - Phase 1 Focus**
+- **Create Clone-able Knowledge Repos**: Build repositories that anyone can clone and contribute to
+- **Democratize Legal Knowledge**: Make Mexican laws accessible through collaborative processing
+- **Enable Future Knowledge Graphs**: Prepare structured data for interconnected databases
+- **Foster Open Contribution**: Make it easy for anyone to process and improve legal data
+- **Build Foundation for AI**: Create the groundwork for Phase 2 knowledge databases and graphs
+
+### 🚀 **Phase 2 Vision**: After Phase 1 completion, we'll build:
+- **Interconnected Knowledge Databases**: PostgreSQL, Neo4j, and vector databases
+- **Legal Knowledge Graphs**: Semantic relationships between laws and concepts  
+- **AI-Ready Data Pipelines**: RAG systems and legal intelligence platforms
 
 ---
 
@@ -36,9 +43,11 @@ This project is building the **world's most comprehensive, open-source Mexican l
 
 ### Quick Start
 ```bash
-# Clone the repository
+# Clone this collaborative knowledge repository
 git clone https://github.com/yourusername/mexican-laws-db.git
 cd mexican-laws-db
+
+# This repo is designed for contribution - check PROJECT_MAP.md for guidance
 
 # Test download (first 3 laws)
 ./test_download.sh
@@ -291,7 +300,7 @@ If this project helps you or your organization, consider:
 ## 📊 **Statistics**
 
 ```
-📈 Project Stats (Updated: 2024)
+📈 Project Stats (Updated: 2025)
 ├── 🏛️ Laws: 334 complete Mexican federal laws
 ├── 📄 Files: 1,000+ legal documents in multiple formats
 ├── 💾 Data: 1.1GB of structured legal information
@@ -341,4 +350,4 @@ If this project helps you or your organization, consider:
 
 ---
 
-*Last updated: January 2024*
+*Last updated: August 2025*
